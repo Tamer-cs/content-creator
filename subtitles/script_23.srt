@@ -1,0 +1,171 @@
+1
+00:00:00,320 --> 00:00:00,760
+<font color="#00ff00">Anxiety</font> feels urgent because the brain dislikes unresolved loops.
+
+2
+00:00:00,760 --> 00:00:01,120
+Anxiety <font color="#00ff00">feels</font> urgent because the brain dislikes unresolved loops.
+
+3
+00:00:01,120 --> 00:00:01,580
+Anxiety feels <font color="#00ff00">urgent</font> because the brain dislikes unresolved loops.
+
+4
+00:00:01,580 --> 00:00:01,820
+Anxiety feels urgent <font color="#00ff00">because</font> the brain dislikes unresolved loops.
+
+5
+00:00:01,820 --> 00:00:01,900
+Anxiety feels urgent because the brain dislikes unresolved loops.
+
+6
+00:00:01,900 --> 00:00:02,000
+Anxiety feels urgent because <font color="#00ff00">the</font> brain dislikes unresolved loops.
+
+7
+00:00:02,000 --> 00:00:02,280
+Anxiety feels urgent because the <font color="#00ff00">brain</font> dislikes unresolved loops.
+
+8
+00:00:02,280 --> 00:00:02,880
+Anxiety feels urgent because the brain <font color="#00ff00">dislikes</font> unresolved loops.
+
+9
+00:00:02,880 --> 00:00:02,940
+Anxiety feels urgent because the brain dislikes unresolved loops.
+
+10
+00:00:02,940 --> 00:00:03,480
+Anxiety feels urgent because the brain dislikes <font color="#00ff00">unresolved</font> loops.
+
+11
+00:00:03,480 --> 00:00:03,840
+Anxiety feels urgent because the brain dislikes unresolved <font color="#00ff00">loops.</font>
+
+12
+00:00:05,160 --> 00:00:05,260
+<font color="#00ff00">It</font> wants closure even when none is available.
+
+13
+00:00:05,260 --> 00:00:05,480
+It <font color="#00ff00">wants</font> closure even when none is available.
+
+14
+00:00:05,480 --> 00:00:05,900
+It wants <font color="#00ff00">closure</font> even when none is available.
+
+15
+00:00:05,900 --> 00:00:06,300
+It wants closure <font color="#00ff00">even</font> when none is available.
+
+16
+00:00:06,300 --> 00:00:06,540
+It wants closure even <font color="#00ff00">when</font> none is available.
+
+17
+00:00:06,540 --> 00:00:06,820
+It wants closure even when <font color="#00ff00">none</font> is available.
+
+18
+00:00:06,820 --> 00:00:07,040
+It wants closure even when none <font color="#00ff00">is</font> available.
+
+19
+00:00:07,040 --> 00:00:07,500
+It wants closure even when none is <font color="#00ff00">available.</font>
+
+20
+00:00:08,780 --> 00:00:08,880
+<font color="#00ff00">So</font> it invents worst case answers to close the loop fast.
+
+21
+00:00:08,880 --> 00:00:09,020
+So <font color="#00ff00">it</font> invents worst case answers to close the loop fast.
+
+22
+00:00:09,020 --> 00:00:09,380
+So it <font color="#00ff00">invents</font> worst case answers to close the loop fast.
+
+23
+00:00:09,380 --> 00:00:09,660
+So it invents <font color="#00ff00">worst</font> case answers to close the loop fast.
+
+24
+00:00:09,660 --> 00:00:09,960
+So it invents worst <font color="#00ff00">case</font> answers to close the loop fast.
+
+25
+00:00:09,960 --> 00:00:10,420
+So it invents worst case <font color="#00ff00">answers</font> to close the loop fast.
+
+26
+00:00:10,420 --> 00:00:10,660
+So it invents worst case answers <font color="#00ff00">to</font> close the loop fast.
+
+27
+00:00:10,660 --> 00:00:10,960
+So it invents worst case answers to <font color="#00ff00">close</font> the loop fast.
+
+28
+00:00:10,960 --> 00:00:11,160
+So it invents worst case answers to close <font color="#00ff00">the</font> loop fast.
+
+29
+00:00:11,160 --> 00:00:11,400
+So it invents worst case answers to close the <font color="#00ff00">loop</font> fast.
+
+30
+00:00:11,400 --> 00:00:11,740
+So it invents worst case answers to close the loop <font color="#00ff00">fast.</font>
+
+31
+00:00:13,040 --> 00:00:13,200
+<font color="#00ff00">This</font> creates relief mixed with fear.
+
+32
+00:00:13,200 --> 00:00:13,560
+This <font color="#00ff00">creates</font> relief mixed with fear.
+
+33
+00:00:13,560 --> 00:00:13,940
+This creates <font color="#00ff00">relief</font> mixed with fear.
+
+34
+00:00:13,940 --> 00:00:14,360
+This creates relief <font color="#00ff00">mixed</font> with fear.
+
+35
+00:00:14,360 --> 00:00:14,580
+This creates relief mixed <font color="#00ff00">with</font> fear.
+
+36
+00:00:14,580 --> 00:00:14,960
+This creates relief mixed with <font color="#00ff00">fear.</font>
+
+37
+00:00:16,160 --> 00:00:16,420
+<font color="#00ff00">Letting</font> question stay open reduces false certainty.
+
+38
+00:00:16,420 --> 00:00:16,660
+Letting <font color="#00ff00">question</font> stay open reduces false certainty.
+
+39
+00:00:16,660 --> 00:00:17,080
+Letting question <font color="#00ff00">stay</font> open reduces false certainty.
+
+40
+00:00:17,080 --> 00:00:17,420
+Letting question stay <font color="#00ff00">open</font> reduces false certainty.
+
+41
+00:00:17,420 --> 00:00:17,960
+Letting question stay open <font color="#00ff00">reduces</font> false certainty.
+
+42
+00:00:17,960 --> 00:00:18,320
+Letting question stay open reduces <font color="#00ff00">false</font> certainty.
+
+43
+00:00:18,320 --> 00:00:18,900
+Letting question stay open reduces false <font color="#00ff00">certainty.</font>

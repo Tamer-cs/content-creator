@@ -1,0 +1,167 @@
+1
+00:00:00,280 --> 00:00:00,740
+<font color="#00ff00">Anxiety</font> tightens attention around imagined outcomes.
+
+2
+00:00:00,740 --> 00:00:01,260
+Anxiety <font color="#00ff00">tightens</font> attention around imagined outcomes.
+
+3
+00:00:01,260 --> 00:00:01,400
+Anxiety tightens attention around imagined outcomes.
+
+4
+00:00:01,400 --> 00:00:01,600
+Anxiety tightens <font color="#00ff00">attention</font> around imagined outcomes.
+
+5
+00:00:01,600 --> 00:00:01,980
+Anxiety tightens attention <font color="#00ff00">around</font> imagined outcomes.
+
+6
+00:00:01,980 --> 00:00:02,540
+Anxiety tightens attention around <font color="#00ff00">imagined</font> outcomes.
+
+7
+00:00:02,540 --> 00:00:03,180
+Anxiety tightens attention around imagined <font color="#00ff00">outcomes.</font>
+
+8
+00:00:04,480 --> 00:00:04,600
+<font color="#00ff00">You</font> watch the future instead of living the present.
+
+9
+00:00:04,600 --> 00:00:04,860
+You <font color="#00ff00">watch</font> the future instead of living the present.
+
+10
+00:00:04,860 --> 00:00:04,940
+You watch the future instead of living the present.
+
+11
+00:00:04,940 --> 00:00:05,040
+You watch <font color="#00ff00">the</font> future instead of living the present.
+
+12
+00:00:05,040 --> 00:00:05,380
+You watch the <font color="#00ff00">future</font> instead of living the present.
+
+13
+00:00:05,380 --> 00:00:05,820
+You watch the future <font color="#00ff00">instead</font> of living the present.
+
+14
+00:00:05,820 --> 00:00:06,060
+You watch the future instead <font color="#00ff00">of</font> living the present.
+
+15
+00:00:06,060 --> 00:00:06,300
+You watch the future instead of <font color="#00ff00">living</font> the present.
+
+16
+00:00:06,300 --> 00:00:06,500
+You watch the future instead of living <font color="#00ff00">the</font> present.
+
+17
+00:00:06,500 --> 00:00:06,840
+You watch the future instead of living the <font color="#00ff00">present.</font>
+
+18
+00:00:07,960 --> 00:00:08,160
+<font color="#00ff00">The</font> body stays tense waiting for a signal that never arrives.
+
+19
+00:00:08,160 --> 00:00:08,240
+The body stays tense waiting for a signal that never arrives.
+
+20
+00:00:08,240 --> 00:00:08,420
+The <font color="#00ff00">body</font> stays tense waiting for a signal that never arrives.
+
+21
+00:00:08,420 --> 00:00:08,740
+The body <font color="#00ff00">stays</font> tense waiting for a signal that never arrives.
+
+22
+00:00:08,740 --> 00:00:09,080
+The body stays <font color="#00ff00">tense</font> waiting for a signal that never arrives.
+
+23
+00:00:09,080 --> 00:00:09,460
+The body stays tense <font color="#00ff00">waiting</font> for a signal that never arrives.
+
+24
+00:00:09,460 --> 00:00:09,500
+The body stays tense waiting for a signal that never arrives.
+
+25
+00:00:09,500 --> 00:00:09,760
+The body stays tense waiting <font color="#00ff00">for</font> a signal that never arrives.
+
+26
+00:00:09,760 --> 00:00:09,880
+The body stays tense waiting for <font color="#00ff00">a</font> signal that never arrives.
+
+27
+00:00:09,880 --> 00:00:10,180
+The body stays tense waiting for a <font color="#00ff00">signal</font> that never arrives.
+
+28
+00:00:10,180 --> 00:00:10,420
+The body stays tense waiting for a signal <font color="#00ff00">that</font> never arrives.
+
+29
+00:00:10,420 --> 00:00:10,640
+The body stays tense waiting for a signal that <font color="#00ff00">never</font> arrives.
+
+30
+00:00:10,640 --> 00:00:11,120
+The body stays tense waiting for a signal that never <font color="#00ff00">arrives.</font>
+
+31
+00:00:12,460 --> 00:00:12,640
+<font color="#00ff00">This</font> drains energy without movement.
+
+32
+00:00:12,640 --> 00:00:12,960
+This <font color="#00ff00">drains</font> energy without movement.
+
+33
+00:00:12,960 --> 00:00:13,400
+This drains <font color="#00ff00">energy</font> without movement.
+
+34
+00:00:13,400 --> 00:00:13,700
+This drains energy <font color="#00ff00">without</font> movement.
+
+35
+00:00:13,700 --> 00:00:14,180
+This drains energy without <font color="#00ff00">movement.</font>
+
+36
+00:00:15,500 --> 00:00:16,240
+<font color="#00ff00">Relaxation</font> begins with dropping the imaginary timeline.
+
+37
+00:00:16,240 --> 00:00:16,560
+Relaxation <font color="#00ff00">begins</font> with dropping the imaginary timeline.
+
+38
+00:00:16,560 --> 00:00:16,920
+Relaxation begins <font color="#00ff00">with</font> dropping the imaginary timeline.
+
+39
+00:00:16,920 --> 00:00:17,220
+Relaxation begins with <font color="#00ff00">dropping</font> the imaginary timeline.
+
+40
+00:00:17,220 --> 00:00:17,460
+Relaxation begins with dropping <font color="#00ff00">the</font> imaginary timeline.
+
+41
+00:00:17,460 --> 00:00:17,900
+Relaxation begins with dropping the <font color="#00ff00">imaginary</font> timeline.
+
+42
+00:00:17,900 --> 00:00:18,560
+Relaxation begins with dropping the imaginary <font color="#00ff00">timeline.</font>

@@ -1,0 +1,167 @@
+1
+00:00:00,220 --> 00:00:00,520
+<font color="#00ff00">Social</font> behavior shifts when status enters the room.
+
+2
+00:00:00,520 --> 00:00:00,840
+Social <font color="#00ff00">behavior</font> shifts when status enters the room.
+
+3
+00:00:00,840 --> 00:00:01,420
+Social behavior <font color="#00ff00">shifts</font> when status enters the room.
+
+4
+00:00:01,420 --> 00:00:01,460
+Social behavior shifts when status enters the room.
+
+5
+00:00:01,460 --> 00:00:01,720
+Social behavior shifts <font color="#00ff00">when</font> status enters the room.
+
+6
+00:00:01,720 --> 00:00:02,100
+Social behavior shifts when <font color="#00ff00">status</font> enters the room.
+
+7
+00:00:02,100 --> 00:00:02,460
+Social behavior shifts when status <font color="#00ff00">enters</font> the room.
+
+8
+00:00:02,460 --> 00:00:02,700
+Social behavior shifts when status enters <font color="#00ff00">the</font> room.
+
+9
+00:00:02,700 --> 00:00:03,020
+Social behavior shifts when status enters the <font color="#00ff00">room.</font>
+
+10
+00:00:04,180 --> 00:00:04,400
+<font color="#00ff00">People</font> speak differently,
+
+11
+00:00:04,400 --> 00:00:04,760
+People <font color="#00ff00">speak</font> differently,
+
+12
+00:00:04,760 --> 00:00:05,180
+People speak <font color="#00ff00">differently,</font>
+
+13
+00:00:05,740 --> 00:00:05,940
+<font color="#00ff00">laugh</font> differently,
+
+14
+00:00:05,940 --> 00:00:06,340
+laugh <font color="#00ff00">differently,</font>
+
+15
+00:00:06,920 --> 00:00:07,020
+<font color="#00ff00">and</font> listen differently.
+
+16
+00:00:07,020 --> 00:00:07,280
+and <font color="#00ff00">listen</font> differently.
+
+17
+00:00:07,280 --> 00:00:07,760
+and listen <font color="#00ff00">differently.</font>
+
+18
+00:00:09,200 --> 00:00:09,440
+<font color="#00ff00">Status</font> quietly reshapes how honest people feel allowed to be.
+
+19
+00:00:09,440 --> 00:00:09,980
+Status <font color="#00ff00">quietly</font> reshapes how honest people feel allowed to be.
+
+20
+00:00:09,980 --> 00:00:10,700
+Status quietly <font color="#00ff00">reshapes</font> how honest people feel allowed to be.
+
+21
+00:00:10,700 --> 00:00:10,740
+Status quietly reshapes how honest people feel allowed to be.
+
+22
+00:00:10,740 --> 00:00:10,860
+Status quietly reshapes <font color="#00ff00">how</font> honest people feel allowed to be.
+
+23
+00:00:10,860 --> 00:00:11,200
+Status quietly reshapes how <font color="#00ff00">honest</font> people feel allowed to be.
+
+24
+00:00:11,200 --> 00:00:11,520
+Status quietly reshapes how honest <font color="#00ff00">people</font> feel allowed to be.
+
+25
+00:00:11,520 --> 00:00:11,860
+Status quietly reshapes how honest people <font color="#00ff00">feel</font> allowed to be.
+
+26
+00:00:11,860 --> 00:00:12,180
+Status quietly reshapes how honest people feel <font color="#00ff00">allowed</font> to be.
+
+27
+00:00:12,180 --> 00:00:12,400
+Status quietly reshapes how honest people feel allowed <font color="#00ff00">to</font> be.
+
+28
+00:00:12,400 --> 00:00:12,600
+Status quietly reshapes how honest people feel allowed to <font color="#00ff00">be.</font>
+
+29
+00:00:13,740 --> 00:00:13,900
+<font color="#00ff00">Most</font> never notice the change in themselves.
+
+30
+00:00:13,900 --> 00:00:14,180
+Most <font color="#00ff00">never</font> notice the change in themselves.
+
+31
+00:00:14,180 --> 00:00:14,600
+Most never <font color="#00ff00">notice</font> the change in themselves.
+
+32
+00:00:14,600 --> 00:00:14,800
+Most never notice <font color="#00ff00">the</font> change in themselves.
+
+33
+00:00:14,800 --> 00:00:15,100
+Most never notice the <font color="#00ff00">change</font> in themselves.
+
+34
+00:00:15,100 --> 00:00:15,280
+Most never notice the change <font color="#00ff00">in</font> themselves.
+
+35
+00:00:15,280 --> 00:00:15,720
+Most never notice the change in <font color="#00ff00">themselves.</font>
+
+36
+00:00:17,160 --> 00:00:17,680
+<font color="#00ff00">Awareness</font> weakens the power of status gains.
+
+37
+00:00:17,680 --> 00:00:18,120
+Awareness <font color="#00ff00">weakens</font> the power of status gains.
+
+38
+00:00:18,120 --> 00:00:18,260
+Awareness weakens <font color="#00ff00">the</font> power of status gains.
+
+39
+00:00:18,260 --> 00:00:18,620
+Awareness weakens the <font color="#00ff00">power</font> of status gains.
+
+40
+00:00:18,620 --> 00:00:18,820
+Awareness weakens the power <font color="#00ff00">of</font> status gains.
+
+41
+00:00:18,820 --> 00:00:19,180
+Awareness weakens the power of <font color="#00ff00">status</font> gains.
+
+42
+00:00:19,180 --> 00:00:19,620
+Awareness weakens the power of status <font color="#00ff00">gains.</font>

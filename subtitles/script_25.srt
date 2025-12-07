@@ -1,0 +1,163 @@
+1
+00:00:00,340 --> 00:00:00,640
+<font color="#00ff00">Overthinking</font> grows when self-trust is weak.
+
+2
+00:00:00,640 --> 00:00:01,020
+Overthinking <font color="#00ff00">grows</font> when self-trust is weak.
+
+3
+00:00:01,020 --> 00:00:01,360
+Overthinking grows <font color="#00ff00">when</font> self-trust is weak.
+
+4
+00:00:01,360 --> 00:00:01,640
+Overthinking grows when <font color="#00ff00">self</font>-trust is weak.
+
+5
+00:00:01,640 --> 00:00:02,020
+Overthinking grows when self<font color="#00ff00">-trust</font> is weak.
+
+6
+00:00:02,020 --> 00:00:02,040
+Overthinking grows when self-trust is weak.
+
+7
+00:00:02,040 --> 00:00:02,180
+Overthinking grows when self-trust <font color="#00ff00">is</font> weak.
+
+8
+00:00:02,180 --> 00:00:02,460
+Overthinking grows when self-trust is <font color="#00ff00">weak.</font>
+
+9
+00:00:03,720 --> 00:00:03,780
+<font color="#00ff00">You</font> look for perfect answers because you doubt your judgment.
+
+10
+00:00:03,780 --> 00:00:03,940
+You <font color="#00ff00">look</font> for perfect answers because you doubt your judgment.
+
+11
+00:00:03,940 --> 00:00:04,100
+You look <font color="#00ff00">for</font> perfect answers because you doubt your judgment.
+
+12
+00:00:04,100 --> 00:00:04,480
+You look for <font color="#00ff00">perfect</font> answers because you doubt your judgment.
+
+13
+00:00:04,480 --> 00:00:04,940
+You look for perfect <font color="#00ff00">answers</font> because you doubt your judgment.
+
+14
+00:00:04,940 --> 00:00:05,260
+You look for perfect answers <font color="#00ff00">because</font> you doubt your judgment.
+
+15
+00:00:05,260 --> 00:00:05,460
+You look for perfect answers because <font color="#00ff00">you</font> doubt your judgment.
+
+16
+00:00:05,460 --> 00:00:05,660
+You look for perfect answers because you <font color="#00ff00">doubt</font> your judgment.
+
+17
+00:00:05,660 --> 00:00:05,880
+You look for perfect answers because you doubt <font color="#00ff00">your</font> judgment.
+
+18
+00:00:05,880 --> 00:00:06,240
+You look for perfect answers because you doubt your <font color="#00ff00">judgment.</font>
+
+19
+00:00:07,640 --> 00:00:07,900
+<font color="#00ff00">Doubt</font> multiplies options instead of choosing one.
+
+20
+00:00:07,900 --> 00:00:08,560
+Doubt <font color="#00ff00">multiplies</font> options instead of choosing one.
+
+21
+00:00:08,560 --> 00:00:08,880
+Doubt multiplies <font color="#00ff00">options</font> instead of choosing one.
+
+22
+00:00:08,880 --> 00:00:09,360
+Doubt multiplies options <font color="#00ff00">instead</font> of choosing one.
+
+23
+00:00:09,360 --> 00:00:09,560
+Doubt multiplies options instead <font color="#00ff00">of</font> choosing one.
+
+24
+00:00:09,560 --> 00:00:09,900
+Doubt multiplies options instead of <font color="#00ff00">choosing</font> one.
+
+25
+00:00:09,900 --> 00:00:10,240
+Doubt multiplies options instead of choosing <font color="#00ff00">one.</font>
+
+26
+00:00:11,480 --> 00:00:11,860
+<font color="#00ff00">Confidence</font> is built through decisions,
+
+27
+00:00:11,860 --> 00:00:12,100
+Confidence <font color="#00ff00">is</font> built through decisions,
+
+28
+00:00:12,100 --> 00:00:12,360
+Confidence is <font color="#00ff00">built</font> through decisions,
+
+29
+00:00:12,360 --> 00:00:12,640
+Confidence is built <font color="#00ff00">through</font> decisions,
+
+30
+00:00:12,640 --> 00:00:13,300
+Confidence is built through <font color="#00ff00">decisions,</font>
+
+31
+00:00:13,700 --> 00:00:13,880
+<font color="#00ff00">not</font> before them.
+
+32
+00:00:13,880 --> 00:00:14,280
+not <font color="#00ff00">before</font> them.
+
+33
+00:00:14,280 --> 00:00:14,480
+not before <font color="#00ff00">them.</font>
+
+34
+00:00:15,800 --> 00:00:15,940
+<font color="#00ff00">Trust</font> yourself by moving, not by waiting.
+
+35
+00:00:15,940 --> 00:00:16,420
+Trust <font color="#00ff00">yourself</font> by moving, not by waiting.
+
+36
+00:00:16,420 --> 00:00:16,680
+Trust yourself <font color="#00ff00">by</font> moving, not by waiting.
+
+37
+00:00:16,680 --> 00:00:17,020
+Trust yourself by <font color="#00ff00">moving,</font> not by waiting.
+
+38
+00:00:17,020 --> 00:00:17,420
+Trust yourself by moving, not by waiting.
+
+39
+00:00:17,420 --> 00:00:17,620
+Trust yourself by moving, <font color="#00ff00">not</font> by waiting.
+
+40
+00:00:17,620 --> 00:00:17,900
+Trust yourself by moving, not <font color="#00ff00">by</font> waiting.
+
+41
+00:00:17,900 --> 00:00:18,260
+Trust yourself by moving, not by <font color="#00ff00">waiting.</font>

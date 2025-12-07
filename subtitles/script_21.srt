@@ -1,0 +1,155 @@
+1
+00:00:00,200 --> 00:00:00,460
+<font color="#00ff00">People</font> mirror emotions before they mirror logic.
+
+2
+00:00:00,460 --> 00:00:00,740
+People <font color="#00ff00">mirror</font> emotions before they mirror logic.
+
+3
+00:00:00,740 --> 00:00:01,200
+People mirror <font color="#00ff00">emotions</font> before they mirror logic.
+
+4
+00:00:01,200 --> 00:00:01,620
+People mirror emotions <font color="#00ff00">before</font> they mirror logic.
+
+5
+00:00:01,620 --> 00:00:01,920
+People mirror emotions before <font color="#00ff00">they</font> mirror logic.
+
+6
+00:00:01,920 --> 00:00:02,180
+People mirror emotions before they <font color="#00ff00">mirror</font> logic.
+
+7
+00:00:02,180 --> 00:00:02,540
+People mirror emotions before they mirror <font color="#00ff00">logic.</font>
+
+8
+00:00:03,980 --> 00:00:04,040
+<font color="#00ff00">That</font> is why tone matters more than words in most arguments.
+
+9
+00:00:04,040 --> 00:00:04,220
+That <font color="#00ff00">is</font> why tone matters more than words in most arguments.
+
+10
+00:00:04,220 --> 00:00:04,480
+That is <font color="#00ff00">why</font> tone matters more than words in most arguments.
+
+11
+00:00:04,480 --> 00:00:04,780
+That is why <font color="#00ff00">tone</font> matters more than words in most arguments.
+
+12
+00:00:04,780 --> 00:00:05,120
+That is why tone <font color="#00ff00">matters</font> more than words in most arguments.
+
+13
+00:00:05,120 --> 00:00:05,380
+That is why tone matters <font color="#00ff00">more</font> than words in most arguments.
+
+14
+00:00:05,380 --> 00:00:05,520
+That is why tone matters more <font color="#00ff00">than</font> words in most arguments.
+
+15
+00:00:05,520 --> 00:00:05,840
+That is why tone matters more than <font color="#00ff00">words</font> in most arguments.
+
+16
+00:00:05,840 --> 00:00:06,020
+That is why tone matters more than words <font color="#00ff00">in</font> most arguments.
+
+17
+00:00:06,020 --> 00:00:06,300
+That is why tone matters more than words in <font color="#00ff00">most</font> arguments.
+
+18
+00:00:06,300 --> 00:00:06,720
+That is why tone matters more than words in most <font color="#00ff00">arguments.</font>
+
+19
+00:00:08,080 --> 00:00:08,240
+<font color="#00ff00">Your</font> mood shapes how your message is received.
+
+20
+00:00:08,240 --> 00:00:08,520
+Your <font color="#00ff00">mood</font> shapes how your message is received.
+
+21
+00:00:08,520 --> 00:00:08,800
+Your mood <font color="#00ff00">shapes</font> how your message is received.
+
+22
+00:00:08,800 --> 00:00:09,120
+Your mood shapes <font color="#00ff00">how</font> your message is received.
+
+23
+00:00:09,120 --> 00:00:09,320
+Your mood shapes how <font color="#00ff00">your</font> message is received.
+
+24
+00:00:09,320 --> 00:00:09,720
+Your mood shapes how your <font color="#00ff00">message</font> is received.
+
+25
+00:00:09,720 --> 00:00:09,900
+Your mood shapes how your message <font color="#00ff00">is</font> received.
+
+26
+00:00:09,900 --> 00:00:10,440
+Your mood shapes how your message is <font color="#00ff00">received.</font>
+
+27
+00:00:11,760 --> 00:00:12,200
+<font color="#00ff00">Connection</font> starts emotionally,
+
+28
+00:00:12,200 --> 00:00:12,460
+Connection <font color="#00ff00">starts</font> emotionally,
+
+29
+00:00:12,460 --> 00:00:13,140
+Connection starts <font color="#00ff00">emotionally,</font>
+
+30
+00:00:13,540 --> 00:00:13,720
+<font color="#00ff00">not</font> intellectually.
+
+31
+00:00:13,720 --> 00:00:14,340
+not <font color="#00ff00">intellectually.</font>
+
+32
+00:00:15,600 --> 00:00:15,880
+<font color="#00ff00">Control</font> your emotional signal to guide the interaction.
+
+33
+00:00:15,880 --> 00:00:16,200
+Control <font color="#00ff00">your</font> emotional signal to guide the interaction.
+
+34
+00:00:16,200 --> 00:00:16,640
+Control your <font color="#00ff00">emotional</font> signal to guide the interaction.
+
+35
+00:00:16,640 --> 00:00:17,100
+Control your emotional <font color="#00ff00">signal</font> to guide the interaction.
+
+36
+00:00:17,100 --> 00:00:17,320
+Control your emotional signal <font color="#00ff00">to</font> guide the interaction.
+
+37
+00:00:17,320 --> 00:00:17,600
+Control your emotional signal to <font color="#00ff00">guide</font> the interaction.
+
+38
+00:00:17,600 --> 00:00:17,780
+Control your emotional signal to guide <font color="#00ff00">the</font> interaction.
+
+39
+00:00:17,780 --> 00:00:18,280
+Control your emotional signal to guide the <font color="#00ff00">interaction.</font>

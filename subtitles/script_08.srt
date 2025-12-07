@@ -1,0 +1,207 @@
+1
+00:00:00,320 --> 00:00:00,580
+<font color="#00ff00">Dopamine</font> drops after constant stimulation,
+
+2
+00:00:00,580 --> 00:00:00,900
+Dopamine <font color="#00ff00">drops</font> after constant stimulation,
+
+3
+00:00:00,900 --> 00:00:01,300
+Dopamine drops <font color="#00ff00">after</font> constant stimulation,
+
+4
+00:00:01,300 --> 00:00:01,660
+Dopamine drops after <font color="#00ff00">constant</font> stimulation,
+
+5
+00:00:01,660 --> 00:00:02,420
+Dopamine drops after constant <font color="#00ff00">stimulation,</font>
+
+6
+00:00:02,820 --> 00:00:03,080
+<font color="#00ff00">making</font> normal life feel dull.
+
+7
+00:00:03,080 --> 00:00:03,400
+making <font color="#00ff00">normal</font> life feel dull.
+
+8
+00:00:03,400 --> 00:00:03,800
+making normal <font color="#00ff00">life</font> feel dull.
+
+9
+00:00:03,800 --> 00:00:03,940
+making normal life feel dull.
+
+10
+00:00:03,940 --> 00:00:04,120
+making normal life <font color="#00ff00">feel</font> dull.
+
+11
+00:00:04,120 --> 00:00:04,420
+making normal life feel <font color="#00ff00">dull.</font>
+
+12
+00:00:05,600 --> 00:00:05,740
+<font color="#00ff00">This</font> is not weakness,
+
+13
+00:00:05,740 --> 00:00:05,880
+This <font color="#00ff00">is</font> not weakness,
+
+14
+00:00:05,880 --> 00:00:06,080
+This is <font color="#00ff00">not</font> weakness,
+
+15
+00:00:06,080 --> 00:00:06,400
+This is not <font color="#00ff00">weakness,</font>
+
+16
+00:00:06,960 --> 00:00:07,080
+<font color="#00ff00">it</font> is how the reward system protects balance.
+
+17
+00:00:07,080 --> 00:00:07,200
+it <font color="#00ff00">is</font> how the reward system protects balance.
+
+18
+00:00:07,200 --> 00:00:07,380
+it is <font color="#00ff00">how</font> the reward system protects balance.
+
+19
+00:00:07,380 --> 00:00:07,520
+it is how <font color="#00ff00">the</font> reward system protects balance.
+
+20
+00:00:07,520 --> 00:00:07,900
+it is how the <font color="#00ff00">reward</font> system protects balance.
+
+21
+00:00:07,900 --> 00:00:08,260
+it is how the reward <font color="#00ff00">system</font> protects balance.
+
+22
+00:00:08,260 --> 00:00:08,800
+it is how the reward system <font color="#00ff00">protects</font> balance.
+
+23
+00:00:08,800 --> 00:00:09,300
+it is how the reward system protects <font color="#00ff00">balance.</font>
+
+24
+00:00:10,600 --> 00:00:10,700
+<font color="#00ff00">The</font> brain adapts quickly to pleasure,
+
+25
+00:00:10,700 --> 00:00:10,940
+The <font color="#00ff00">brain</font> adapts quickly to pleasure,
+
+26
+00:00:10,940 --> 00:00:11,440
+The brain <font color="#00ff00">adapts</font> quickly to pleasure,
+
+27
+00:00:11,440 --> 00:00:11,620
+The brain adapts quickly to pleasure,
+
+28
+00:00:11,620 --> 00:00:11,720
+The brain adapts <font color="#00ff00">quickly</font> to pleasure,
+
+29
+00:00:11,720 --> 00:00:11,960
+The brain adapts quickly <font color="#00ff00">to</font> pleasure,
+
+30
+00:00:11,960 --> 00:00:12,300
+The brain adapts quickly to <font color="#00ff00">pleasure,</font>
+
+31
+00:00:12,580 --> 00:00:12,660
+<font color="#00ff00">but</font> slowly to discipline.
+
+32
+00:00:12,660 --> 00:00:13,040
+but <font color="#00ff00">slowly</font> to discipline.
+
+33
+00:00:13,040 --> 00:00:13,240
+but slowly <font color="#00ff00">to</font> discipline.
+
+34
+00:00:13,240 --> 00:00:13,640
+but slowly to <font color="#00ff00">discipline.</font>
+
+35
+00:00:14,920 --> 00:00:15,040
+<font color="#00ff00">That</font> is why easy rewards lose meaning fast.
+
+36
+00:00:15,040 --> 00:00:15,200
+That <font color="#00ff00">is</font> why easy rewards lose meaning fast.
+
+37
+00:00:15,200 --> 00:00:15,440
+That is <font color="#00ff00">why</font> easy rewards lose meaning fast.
+
+38
+00:00:15,440 --> 00:00:15,800
+That is why <font color="#00ff00">easy</font> rewards lose meaning fast.
+
+39
+00:00:15,800 --> 00:00:16,280
+That is why easy <font color="#00ff00">rewards</font> lose meaning fast.
+
+40
+00:00:16,280 --> 00:00:16,620
+That is why easy rewards <font color="#00ff00">lose</font> meaning fast.
+
+41
+00:00:16,620 --> 00:00:17,000
+That is why easy rewards lose <font color="#00ff00">meaning</font> fast.
+
+42
+00:00:17,000 --> 00:00:17,480
+That is why easy rewards lose meaning <font color="#00ff00">fast.</font>
+
+43
+00:00:18,780 --> 00:00:18,900
+<font color="#00ff00">You</font> rebuild sensitivity by reducing excess,
+
+44
+00:00:18,900 --> 00:00:19,260
+You <font color="#00ff00">rebuild</font> sensitivity by reducing excess,
+
+45
+00:00:19,260 --> 00:00:19,860
+You rebuild <font color="#00ff00">sensitivity</font> by reducing excess,
+
+46
+00:00:19,860 --> 00:00:20,320
+You rebuild sensitivity <font color="#00ff00">by</font> reducing excess,
+
+47
+00:00:20,320 --> 00:00:20,760
+You rebuild sensitivity by <font color="#00ff00">reducing</font> excess,
+
+48
+00:00:20,760 --> 00:00:21,240
+You rebuild sensitivity by reducing <font color="#00ff00">excess,</font>
+
+49
+00:00:21,720 --> 00:00:21,880
+<font color="#00ff00">not</font> by chasing more.
+
+50
+00:00:21,880 --> 00:00:22,160
+not <font color="#00ff00">by</font> chasing more.
+
+51
+00:00:22,160 --> 00:00:22,580
+not by <font color="#00ff00">chasing</font> more.
+
+52
+00:00:22,580 --> 00:00:22,960
+not by chasing <font color="#00ff00">more.</font>

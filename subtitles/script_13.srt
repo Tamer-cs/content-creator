@@ -1,0 +1,187 @@
+1
+00:00:00,340 --> 00:00:00,620
+<font color="#00ff00">Overthinking</font> is often a sign that you care deeply,
+
+2
+00:00:00,620 --> 00:00:00,900
+Overthinking <font color="#00ff00">is</font> often a sign that you care deeply,
+
+3
+00:00:00,900 --> 00:00:01,160
+Overthinking is <font color="#00ff00">often</font> a sign that you care deeply,
+
+4
+00:00:01,160 --> 00:00:01,320
+Overthinking is often <font color="#00ff00">a</font> sign that you care deeply,
+
+5
+00:00:01,320 --> 00:00:01,580
+Overthinking is often a <font color="#00ff00">sign</font> that you care deeply,
+
+6
+00:00:01,580 --> 00:00:01,760
+Overthinking is often a sign <font color="#00ff00">that</font> you care deeply,
+
+7
+00:00:01,760 --> 00:00:01,900
+Overthinking is often a sign that <font color="#00ff00">you</font> care deeply,
+
+8
+00:00:01,900 --> 00:00:02,180
+Overthinking is often a sign that you <font color="#00ff00">care</font> deeply,
+
+9
+00:00:02,180 --> 00:00:02,580
+Overthinking is often a sign that you care <font color="#00ff00">deeply,</font>
+
+10
+00:00:02,940 --> 00:00:03,120
+<font color="#00ff00">not</font> that you are weak.
+
+11
+00:00:03,120 --> 00:00:03,340
+not <font color="#00ff00">that</font> you are weak.
+
+12
+00:00:03,340 --> 00:00:03,520
+not that <font color="#00ff00">you</font> are weak.
+
+13
+00:00:03,520 --> 00:00:03,620
+not that you <font color="#00ff00">are</font> weak.
+
+14
+00:00:03,620 --> 00:00:03,900
+not that you are <font color="#00ff00">weak.</font>
+
+15
+00:00:05,120 --> 00:00:05,220
+<font color="#00ff00">The</font> mind keeps replaying because it wants to avoid mistakes.
+
+16
+00:00:05,220 --> 00:00:05,460
+The <font color="#00ff00">mind</font> keeps replaying because it wants to avoid mistakes.
+
+17
+00:00:05,460 --> 00:00:05,800
+The mind <font color="#00ff00">keeps</font> replaying because it wants to avoid mistakes.
+
+18
+00:00:05,800 --> 00:00:06,540
+The mind keeps <font color="#00ff00">replaying</font> because it wants to avoid mistakes.
+
+19
+00:00:06,540 --> 00:00:06,620
+The mind keeps replaying because it wants to avoid mistakes.
+
+20
+00:00:06,620 --> 00:00:06,720
+The mind keeps replaying <font color="#00ff00">because</font> it wants to avoid mistakes.
+
+21
+00:00:06,720 --> 00:00:06,900
+The mind keeps replaying because <font color="#00ff00">it</font> wants to avoid mistakes.
+
+22
+00:00:06,900 --> 00:00:07,060
+The mind keeps replaying because it <font color="#00ff00">wants</font> to avoid mistakes.
+
+23
+00:00:07,060 --> 00:00:07,300
+The mind keeps replaying because it wants <font color="#00ff00">to</font> avoid mistakes.
+
+24
+00:00:07,300 --> 00:00:07,600
+The mind keeps replaying because it wants to <font color="#00ff00">avoid</font> mistakes.
+
+25
+00:00:07,600 --> 00:00:08,160
+The mind keeps replaying because it wants to avoid <font color="#00ff00">mistakes.</font>
+
+26
+00:00:09,460 --> 00:00:09,560
+<font color="#00ff00">But</font> perfection is impossible when information is incomplete.
+
+27
+00:00:09,560 --> 00:00:09,920
+But <font color="#00ff00">perfection</font> is impossible when information is incomplete.
+
+28
+00:00:09,920 --> 00:00:10,300
+But perfection <font color="#00ff00">is</font> impossible when information is incomplete.
+
+29
+00:00:10,300 --> 00:00:10,760
+But perfection is <font color="#00ff00">impossible</font> when information is incomplete.
+
+30
+00:00:10,760 --> 00:00:11,100
+But perfection is impossible <font color="#00ff00">when</font> information is incomplete.
+
+31
+00:00:11,100 --> 00:00:11,580
+But perfection is impossible when <font color="#00ff00">information</font> is incomplete.
+
+32
+00:00:11,580 --> 00:00:11,920
+But perfection is impossible when information <font color="#00ff00">is</font> incomplete.
+
+33
+00:00:11,920 --> 00:00:12,300
+But perfection is impossible when information is <font color="#00ff00">incomplete.</font>
+
+34
+00:00:13,660 --> 00:00:13,920
+<font color="#00ff00">Waiting</font> for full certainty blocks movement.
+
+35
+00:00:13,920 --> 00:00:14,180
+Waiting <font color="#00ff00">for</font> full certainty blocks movement.
+
+36
+00:00:14,180 --> 00:00:14,420
+Waiting for <font color="#00ff00">full</font> certainty blocks movement.
+
+37
+00:00:14,420 --> 00:00:14,860
+Waiting for full <font color="#00ff00">certainty</font> blocks movement.
+
+38
+00:00:14,860 --> 00:00:15,200
+Waiting for full certainty <font color="#00ff00">blocks</font> movement.
+
+39
+00:00:15,200 --> 00:00:15,640
+Waiting for full certainty blocks <font color="#00ff00">movement.</font>
+
+40
+00:00:17,040 --> 00:00:17,280
+<font color="#00ff00">Progress</font> begins when you accept imperfect clarity.
+
+41
+00:00:17,280 --> 00:00:17,760
+Progress <font color="#00ff00">begins</font> when you accept imperfect clarity.
+
+42
+00:00:17,760 --> 00:00:18,080
+Progress begins <font color="#00ff00">when</font> you accept imperfect clarity.
+
+43
+00:00:18,080 --> 00:00:18,220
+Progress begins when <font color="#00ff00">you</font> accept imperfect clarity.
+
+44
+00:00:18,220 --> 00:00:18,600
+Progress begins when you <font color="#00ff00">accept</font> imperfect clarity.
+
+45
+00:00:18,600 --> 00:00:18,640
+Progress begins when you accept imperfect clarity.
+
+46
+00:00:18,640 --> 00:00:19,060
+Progress begins when you accept <font color="#00ff00">imperfect</font> clarity.
+
+47
+00:00:19,060 --> 00:00:19,160
+Progress begins when you accept imperfect <font color="#00ff00">clarity.</font>

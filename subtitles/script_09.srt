@@ -1,0 +1,171 @@
+1
+00:00:00,180 --> 00:00:00,420
+<font color="#00ff00">People</font> judge others by behavior,
+
+2
+00:00:00,420 --> 00:00:00,680
+People <font color="#00ff00">judge</font> others by behavior,
+
+3
+00:00:00,680 --> 00:00:00,940
+People judge <font color="#00ff00">others</font> by behavior,
+
+4
+00:00:00,940 --> 00:00:01,220
+People judge others <font color="#00ff00">by</font> behavior,
+
+5
+00:00:01,220 --> 00:00:01,680
+People judge others by <font color="#00ff00">behavior,</font>
+
+6
+00:00:02,020 --> 00:00:02,140
+<font color="#00ff00">but</font> judge themselves by intention.
+
+7
+00:00:02,140 --> 00:00:02,400
+but <font color="#00ff00">judge</font> themselves by intention.
+
+8
+00:00:02,400 --> 00:00:02,780
+but judge <font color="#00ff00">themselves</font> by intention.
+
+9
+00:00:02,780 --> 00:00:03,280
+but judge themselves <font color="#00ff00">by</font> intention.
+
+10
+00:00:03,280 --> 00:00:03,760
+but judge themselves by <font color="#00ff00">intention.</font>
+
+11
+00:00:05,060 --> 00:00:05,160
+<font color="#00ff00">This</font> creates silent misunderstandings in daily interactions.
+
+12
+00:00:05,160 --> 00:00:05,500
+This <font color="#00ff00">creates</font> silent misunderstandings in daily interactions.
+
+13
+00:00:05,500 --> 00:00:06,040
+This creates <font color="#00ff00">silent</font> misunderstandings in daily interactions.
+
+14
+00:00:06,040 --> 00:00:07,060
+This creates silent <font color="#00ff00">misunderstandings</font> in daily interactions.
+
+15
+00:00:07,060 --> 00:00:07,220
+This creates silent misunderstandings <font color="#00ff00">in</font> daily interactions.
+
+16
+00:00:07,220 --> 00:00:07,520
+This creates silent misunderstandings in <font color="#00ff00">daily</font> interactions.
+
+17
+00:00:07,520 --> 00:00:08,160
+This creates silent misunderstandings in daily <font color="#00ff00">interactions.</font>
+
+18
+00:00:09,540 --> 00:00:09,660
+<font color="#00ff00">You</font> think your reason is clear,
+
+19
+00:00:09,660 --> 00:00:09,840
+You <font color="#00ff00">think</font> your reason is clear,
+
+20
+00:00:09,840 --> 00:00:10,040
+You think <font color="#00ff00">your</font> reason is clear,
+
+21
+00:00:10,040 --> 00:00:10,380
+You think your <font color="#00ff00">reason</font> is clear,
+
+22
+00:00:10,380 --> 00:00:10,600
+You think your reason <font color="#00ff00">is</font> clear,
+
+23
+00:00:10,600 --> 00:00:10,700
+You think your reason is <font color="#00ff00">clear,</font>
+
+24
+00:00:11,200 --> 00:00:11,300
+<font color="#00ff00">but</font> others only see the result.
+
+25
+00:00:11,300 --> 00:00:11,540
+but <font color="#00ff00">others</font> only see the result.
+
+26
+00:00:11,540 --> 00:00:11,880
+but others <font color="#00ff00">only</font> see the result.
+
+27
+00:00:11,880 --> 00:00:12,160
+but others only <font color="#00ff00">see</font> the result.
+
+28
+00:00:12,160 --> 00:00:12,340
+but others only see <font color="#00ff00">the</font> result.
+
+29
+00:00:12,340 --> 00:00:12,760
+but others only see the <font color="#00ff00">result.</font>
+
+30
+00:00:14,040 --> 00:00:14,440
+<font color="#00ff00">Conflict</font> grows when intentions stay unspoken.
+
+31
+00:00:14,440 --> 00:00:14,520
+Conflict grows when intentions stay unspoken.
+
+32
+00:00:14,520 --> 00:00:14,740
+Conflict <font color="#00ff00">grows</font> when intentions stay unspoken.
+
+33
+00:00:14,740 --> 00:00:15,060
+Conflict grows <font color="#00ff00">when</font> intentions stay unspoken.
+
+34
+00:00:15,060 --> 00:00:15,540
+Conflict grows when <font color="#00ff00">intentions</font> stay unspoken.
+
+35
+00:00:15,540 --> 00:00:15,940
+Conflict grows when intentions <font color="#00ff00">stay</font> unspoken.
+
+36
+00:00:15,940 --> 00:00:16,600
+Conflict grows when intentions stay <font color="#00ff00">unspoken.</font>
+
+37
+00:00:17,800 --> 00:00:18,220
+<font color="#00ff00">Understanding</font> improves when actions and words align.
+
+38
+00:00:18,220 --> 00:00:18,780
+Understanding <font color="#00ff00">improves</font> when actions and words align.
+
+39
+00:00:18,780 --> 00:00:19,140
+Understanding improves <font color="#00ff00">when</font> actions and words align.
+
+40
+00:00:19,140 --> 00:00:19,480
+Understanding improves when <font color="#00ff00">actions</font> and words align.
+
+41
+00:00:19,480 --> 00:00:19,820
+Understanding improves when actions <font color="#00ff00">and</font> words align.
+
+42
+00:00:19,820 --> 00:00:20,120
+Understanding improves when actions and <font color="#00ff00">words</font> align.
+
+43
+00:00:20,120 --> 00:00:20,380
+Understanding improves when actions and words <font color="#00ff00">align.</font>

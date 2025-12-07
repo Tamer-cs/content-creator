@@ -1,0 +1,215 @@
+1
+00:00:00,360 --> 00:00:00,620
+<font color="#00ff00">Overthinking</font> often begins when silence
+
+2
+00:00:00,620 --> 00:00:01,000
+Overthinking <font color="#00ff00">often</font> begins when silence
+
+3
+00:00:01,000 --> 00:00:01,520
+Overthinking often <font color="#00ff00">begins</font> when silence
+
+4
+00:00:01,520 --> 00:00:01,740
+Overthinking often begins <font color="#00ff00">when</font> silence
+
+5
+00:00:01,740 --> 00:00:02,160
+Overthinking often begins when <font color="#00ff00">silence</font>
+
+6
+00:00:02,160 --> 00:00:02,540
+<font color="#00ff00">feels</font> unsafe inside your own mind.
+
+7
+00:00:02,540 --> 00:00:03,060
+feels <font color="#00ff00">unsafe</font> inside your own mind.
+
+8
+00:00:03,060 --> 00:00:03,620
+feels unsafe <font color="#00ff00">inside</font> your own mind.
+
+9
+00:00:03,620 --> 00:00:03,880
+feels unsafe inside <font color="#00ff00">your</font> own mind.
+
+10
+00:00:03,880 --> 00:00:04,080
+feels unsafe inside your <font color="#00ff00">own</font> mind.
+
+11
+00:00:04,080 --> 00:00:04,520
+feels unsafe inside your own <font color="#00ff00">mind.</font>
+
+12
+00:00:05,700 --> 00:00:05,920
+<font color="#00ff00">Noise</font> becomes a shield against feeling unsure or vulnerable.
+
+13
+00:00:05,920 --> 00:00:06,320
+Noise <font color="#00ff00">becomes</font> a shield against feeling unsure or vulnerable.
+
+14
+00:00:06,320 --> 00:00:06,540
+Noise becomes <font color="#00ff00">a</font> shield against feeling unsure or vulnerable.
+
+15
+00:00:06,540 --> 00:00:06,800
+Noise becomes a <font color="#00ff00">shield</font> against feeling unsure or vulnerable.
+
+16
+00:00:06,800 --> 00:00:07,080
+Noise becomes a shield <font color="#00ff00">against</font> feeling unsure or vulnerable.
+
+17
+00:00:07,080 --> 00:00:07,500
+Noise becomes a shield against <font color="#00ff00">feeling</font> unsure or vulnerable.
+
+18
+00:00:07,500 --> 00:00:08,060
+Noise becomes a shield against feeling <font color="#00ff00">unsure</font> or vulnerable.
+
+19
+00:00:08,060 --> 00:00:08,280
+Noise becomes a shield against feeling unsure <font color="#00ff00">or</font> vulnerable.
+
+20
+00:00:08,280 --> 00:00:08,800
+Noise becomes a shield against feeling unsure or <font color="#00ff00">vulnerable.</font>
+
+21
+00:00:10,140 --> 00:00:10,420
+<font color="#00ff00">Thoughts</font> pile up when emotions are ignored instead of named.
+
+22
+00:00:10,420 --> 00:00:10,440
+Thoughts pile up when emotions are ignored instead of named.
+
+23
+00:00:10,440 --> 00:00:10,620
+Thoughts <font color="#00ff00">pile</font> up when emotions are ignored instead of named.
+
+24
+00:00:10,620 --> 00:00:10,760
+Thoughts pile <font color="#00ff00">up</font> when emotions are ignored instead of named.
+
+25
+00:00:10,760 --> 00:00:10,940
+Thoughts pile up <font color="#00ff00">when</font> emotions are ignored instead of named.
+
+26
+00:00:10,940 --> 00:00:11,320
+Thoughts pile up when <font color="#00ff00">emotions</font> are ignored instead of named.
+
+27
+00:00:11,320 --> 00:00:11,640
+Thoughts pile up when emotions <font color="#00ff00">are</font> ignored instead of named.
+
+28
+00:00:11,640 --> 00:00:11,960
+Thoughts pile up when emotions are <font color="#00ff00">ignored</font> instead of named.
+
+29
+00:00:11,960 --> 00:00:12,300
+Thoughts pile up when emotions are ignored <font color="#00ff00">instead</font> of named.
+
+30
+00:00:12,300 --> 00:00:12,480
+Thoughts pile up when emotions are ignored instead <font color="#00ff00">of</font> named.
+
+31
+00:00:12,480 --> 00:00:12,580
+Thoughts pile up when emotions are ignored instead of <font color="#00ff00">named.</font>
+
+32
+00:00:14,180 --> 00:00:14,320
+<font color="#00ff00">Your</font> brain is not broken, it is overloaded.
+
+33
+00:00:14,320 --> 00:00:14,640
+Your <font color="#00ff00">brain</font> is not broken, it is overloaded.
+
+34
+00:00:14,640 --> 00:00:14,900
+Your brain <font color="#00ff00">is</font> not broken, it is overloaded.
+
+35
+00:00:14,900 --> 00:00:15,140
+Your brain is <font color="#00ff00">not</font> broken, it is overloaded.
+
+36
+00:00:15,140 --> 00:00:15,580
+Your brain is not <font color="#00ff00">broken,</font> it is overloaded.
+
+37
+00:00:15,580 --> 00:00:15,940
+Your brain is not broken, it is overloaded.
+
+38
+00:00:15,940 --> 00:00:16,020
+Your brain is not broken, <font color="#00ff00">it</font> is overloaded.
+
+39
+00:00:16,020 --> 00:00:16,160
+Your brain is not broken, it <font color="#00ff00">is</font> overloaded.
+
+40
+00:00:16,160 --> 00:00:16,720
+Your brain is not broken, it is <font color="#00ff00">overloaded.</font>
+
+41
+00:00:18,020 --> 00:00:18,340
+<font color="#00ff00">Clarity</font> returns when you slow the input,
+
+42
+00:00:18,340 --> 00:00:18,860
+Clarity <font color="#00ff00">returns</font> when you slow the input,
+
+43
+00:00:18,860 --> 00:00:19,100
+Clarity returns <font color="#00ff00">when</font> you slow the input,
+
+44
+00:00:19,100 --> 00:00:19,260
+Clarity returns when <font color="#00ff00">you</font> slow the input,
+
+45
+00:00:19,260 --> 00:00:19,500
+Clarity returns when you <font color="#00ff00">slow</font> the input,
+
+46
+00:00:19,500 --> 00:00:19,720
+Clarity returns when you slow <font color="#00ff00">the</font> input,
+
+47
+00:00:19,720 --> 00:00:19,940
+Clarity returns when you slow the <font color="#00ff00">input,</font>
+
+48
+00:00:20,420 --> 00:00:20,600
+<font color="#00ff00">not</font> when you add more thoughts.
+
+49
+00:00:20,600 --> 00:00:20,860
+not <font color="#00ff00">when</font> you add more thoughts.
+
+50
+00:00:20,860 --> 00:00:21,000
+not when <font color="#00ff00">you</font> add more thoughts.
+
+51
+00:00:21,000 --> 00:00:21,140
+not when you add more thoughts.
+
+52
+00:00:21,140 --> 00:00:21,240
+not when you <font color="#00ff00">add</font> more thoughts.
+
+53
+00:00:21,240 --> 00:00:21,480
+not when you add <font color="#00ff00">more</font> thoughts.
+
+54
+00:00:21,480 --> 00:00:21,880
+not when you add more <font color="#00ff00">thoughts.</font>

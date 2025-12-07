@@ -1,0 +1,223 @@
+1
+00:00:00,180 --> 00:00:00,420
+<font color="#00ff00">People</font> copy the behavior they see rewarded,
+
+2
+00:00:00,420 --> 00:00:00,800
+People <font color="#00ff00">copy</font> the behavior they see rewarded,
+
+3
+00:00:00,800 --> 00:00:00,960
+People copy <font color="#00ff00">the</font> behavior they see rewarded,
+
+4
+00:00:00,960 --> 00:00:01,380
+People copy the <font color="#00ff00">behavior</font> they see rewarded,
+
+5
+00:00:01,380 --> 00:00:01,620
+People copy the behavior <font color="#00ff00">they</font> see rewarded,
+
+6
+00:00:01,620 --> 00:00:01,860
+People copy the behavior they <font color="#00ff00">see</font> rewarded,
+
+7
+00:00:01,860 --> 00:00:02,360
+People copy the behavior they see <font color="#00ff00">rewarded,</font>
+
+8
+00:00:02,800 --> 00:00:02,880
+<font color="#00ff00">not</font> the behavior they hear praised.
+
+9
+00:00:02,880 --> 00:00:03,040
+not <font color="#00ff00">the</font> behavior they hear praised.
+
+10
+00:00:03,040 --> 00:00:03,520
+not the <font color="#00ff00">behavior</font> they hear praised.
+
+11
+00:00:03,520 --> 00:00:03,740
+not the behavior <font color="#00ff00">they</font> hear praised.
+
+12
+00:00:03,740 --> 00:00:04,060
+not the behavior they <font color="#00ff00">hear</font> praised.
+
+13
+00:00:04,060 --> 00:00:04,420
+not the behavior they hear <font color="#00ff00">praised.</font>
+
+14
+00:00:05,820 --> 00:00:05,900
+<font color="#00ff00">That</font> is why actions in groups spread faster than values.
+
+15
+00:00:05,900 --> 00:00:06,060
+That <font color="#00ff00">is</font> why actions in groups spread faster than values.
+
+16
+00:00:06,060 --> 00:00:06,320
+That is <font color="#00ff00">why</font> actions in groups spread faster than values.
+
+17
+00:00:06,320 --> 00:00:06,720
+That is why <font color="#00ff00">actions</font> in groups spread faster than values.
+
+18
+00:00:06,720 --> 00:00:06,980
+That is why actions <font color="#00ff00">in</font> groups spread faster than values.
+
+19
+00:00:06,980 --> 00:00:07,260
+That is why actions in <font color="#00ff00">groups</font> spread faster than values.
+
+20
+00:00:07,260 --> 00:00:07,620
+That is why actions in groups <font color="#00ff00">spread</font> faster than values.
+
+21
+00:00:07,620 --> 00:00:08,140
+That is why actions in groups spread <font color="#00ff00">faster</font> than values.
+
+22
+00:00:08,140 --> 00:00:08,300
+That is why actions in groups spread faster <font color="#00ff00">than</font> values.
+
+23
+00:00:08,300 --> 00:00:08,780
+That is why actions in groups spread faster than <font color="#00ff00">values.</font>
+
+24
+00:00:10,100 --> 00:00:10,340
+<font color="#00ff00">Social</font> rules are often invisible,
+
+25
+00:00:10,340 --> 00:00:10,780
+Social <font color="#00ff00">rules</font> are often invisible,
+
+26
+00:00:10,780 --> 00:00:11,080
+Social rules <font color="#00ff00">are</font> often invisible,
+
+27
+00:00:11,080 --> 00:00:11,420
+Social rules are <font color="#00ff00">often</font> invisible,
+
+28
+00:00:11,420 --> 00:00:11,920
+Social rules are often <font color="#00ff00">invisible,</font>
+
+29
+00:00:12,280 --> 00:00:12,380
+<font color="#00ff00">yet</font> everyone feels when they break them.
+
+30
+00:00:12,380 --> 00:00:12,740
+yet <font color="#00ff00">everyone</font> feels when they break them.
+
+31
+00:00:12,740 --> 00:00:13,180
+yet everyone <font color="#00ff00">feels</font> when they break them.
+
+32
+00:00:13,180 --> 00:00:13,500
+yet everyone feels <font color="#00ff00">when</font> they break them.
+
+33
+00:00:13,500 --> 00:00:13,680
+yet everyone feels when <font color="#00ff00">they</font> break them.
+
+34
+00:00:13,680 --> 00:00:13,960
+yet everyone feels when they <font color="#00ff00">break</font> them.
+
+35
+00:00:13,960 --> 00:00:14,060
+yet everyone feels when they break <font color="#00ff00">them.</font>
+
+36
+00:00:15,360 --> 00:00:15,760
+<font color="#00ff00">Belonging</font> feels emotional,
+
+37
+00:00:15,760 --> 00:00:16,100
+Belonging <font color="#00ff00">feels</font> emotional,
+
+38
+00:00:16,100 --> 00:00:16,700
+Belonging feels <font color="#00ff00">emotional,</font>
+
+39
+00:00:17,060 --> 00:00:17,160
+<font color="#00ff00">but</font> it is guided by deep imitation.
+
+40
+00:00:17,160 --> 00:00:17,260
+but <font color="#00ff00">it</font> is guided by deep imitation.
+
+41
+00:00:17,260 --> 00:00:17,400
+but it <font color="#00ff00">is</font> guided by deep imitation.
+
+42
+00:00:17,400 --> 00:00:17,720
+but it is <font color="#00ff00">guided</font> by deep imitation.
+
+43
+00:00:17,720 --> 00:00:18,000
+but it is guided <font color="#00ff00">by</font> deep imitation.
+
+44
+00:00:18,000 --> 00:00:18,320
+but it is guided by <font color="#00ff00">deep</font> imitation.
+
+45
+00:00:18,320 --> 00:00:18,800
+but it is guided by deep <font color="#00ff00">imitation.</font>
+
+46
+00:00:20,120 --> 00:00:20,240
+<font color="#00ff00">We</font> learn who to be by watching what gets accepted.
+
+47
+00:00:20,240 --> 00:00:20,500
+We <font color="#00ff00">learn</font> who to be by watching what gets accepted.
+
+48
+00:00:20,500 --> 00:00:20,720
+We learn <font color="#00ff00">who</font> to be by watching what gets accepted.
+
+49
+00:00:20,720 --> 00:00:20,820
+We learn who <font color="#00ff00">to</font> be by watching what gets accepted.
+
+50
+00:00:20,820 --> 00:00:20,840
+We learn who to be by watching what gets accepted.
+
+51
+00:00:20,840 --> 00:00:20,940
+We learn who to <font color="#00ff00">be</font> by watching what gets accepted.
+
+52
+00:00:20,940 --> 00:00:21,140
+We learn who to be <font color="#00ff00">by</font> watching what gets accepted.
+
+53
+00:00:21,140 --> 00:00:21,520
+We learn who to be by <font color="#00ff00">watching</font> what gets accepted.
+
+54
+00:00:21,520 --> 00:00:21,760
+We learn who to be by watching <font color="#00ff00">what</font> gets accepted.
+
+55
+00:00:21,760 --> 00:00:22,020
+We learn who to be by watching what <font color="#00ff00">gets</font> accepted.
+
+56
+00:00:22,020 --> 00:00:22,420
+We learn who to be by watching what gets <font color="#00ff00">accepted.</font>

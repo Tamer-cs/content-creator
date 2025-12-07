@@ -1,0 +1,163 @@
+1
+00:00:00,280 --> 00:00:00,900
+<font color="#00ff00">Procrastination</font> often hides fear of judgment,
+
+2
+00:00:00,900 --> 00:00:01,260
+Procrastination <font color="#00ff00">often</font> hides fear of judgment,
+
+3
+00:00:01,260 --> 00:00:01,280
+Procrastination often hides fear of judgment,
+
+4
+00:00:01,280 --> 00:00:01,680
+Procrastination often <font color="#00ff00">hides</font> fear of judgment,
+
+5
+00:00:01,680 --> 00:00:01,980
+Procrastination often hides <font color="#00ff00">fear</font> of judgment,
+
+6
+00:00:01,980 --> 00:00:02,120
+Procrastination often hides fear <font color="#00ff00">of</font> judgment,
+
+7
+00:00:02,120 --> 00:00:02,220
+Procrastination often hides fear of <font color="#00ff00">judgment,</font>
+
+8
+00:00:02,940 --> 00:00:03,060
+<font color="#00ff00">not</font> lack of ability.
+
+9
+00:00:03,060 --> 00:00:03,320
+not <font color="#00ff00">lack</font> of ability.
+
+10
+00:00:03,320 --> 00:00:03,340
+not lack of ability.
+
+11
+00:00:03,340 --> 00:00:03,460
+not lack <font color="#00ff00">of</font> ability.
+
+12
+00:00:03,460 --> 00:00:03,800
+not lack of <font color="#00ff00">ability.</font>
+
+13
+00:00:05,060 --> 00:00:05,120
+<font color="#00ff00">You</font> delay to avoid seeing your limits.
+
+14
+00:00:05,120 --> 00:00:05,360
+You <font color="#00ff00">delay</font> to avoid seeing your limits.
+
+15
+00:00:05,360 --> 00:00:05,620
+You delay <font color="#00ff00">to</font> avoid seeing your limits.
+
+16
+00:00:05,620 --> 00:00:05,940
+You delay to <font color="#00ff00">avoid</font> seeing your limits.
+
+17
+00:00:05,940 --> 00:00:06,260
+You delay to avoid <font color="#00ff00">seeing</font> your limits.
+
+18
+00:00:06,260 --> 00:00:06,520
+You delay to avoid seeing <font color="#00ff00">your</font> limits.
+
+19
+00:00:06,520 --> 00:00:06,860
+You delay to avoid seeing your <font color="#00ff00">limits.</font>
+
+20
+00:00:08,140 --> 00:00:08,500
+<font color="#00ff00">Weighting</font> protects your self-image temporarily.
+
+21
+00:00:08,500 --> 00:00:08,820
+Weighting <font color="#00ff00">protects</font> your self-image temporarily.
+
+22
+00:00:08,820 --> 00:00:09,140
+Weighting protects <font color="#00ff00">your</font> self-image temporarily.
+
+23
+00:00:09,140 --> 00:00:09,480
+Weighting protects your <font color="#00ff00">self</font>-image temporarily.
+
+24
+00:00:09,480 --> 00:00:09,720
+Weighting protects your self<font color="#00ff00">-image</font> temporarily.
+
+25
+00:00:09,720 --> 00:00:10,320
+Weighting protects your self-image <font color="#00ff00">temporarily.</font>
+
+26
+00:00:11,640 --> 00:00:11,740
+<font color="#00ff00">But</font> delay quietly confirms the fear you try to escape.
+
+27
+00:00:11,740 --> 00:00:12,040
+But <font color="#00ff00">delay</font> quietly confirms the fear you try to escape.
+
+28
+00:00:12,040 --> 00:00:12,540
+But delay <font color="#00ff00">quietly</font> confirms the fear you try to escape.
+
+29
+00:00:12,540 --> 00:00:13,140
+But delay quietly <font color="#00ff00">confirms</font> the fear you try to escape.
+
+30
+00:00:13,140 --> 00:00:13,400
+But delay quietly confirms <font color="#00ff00">the</font> fear you try to escape.
+
+31
+00:00:13,400 --> 00:00:13,500
+But delay quietly confirms the fear you try to escape.
+
+32
+00:00:13,500 --> 00:00:13,640
+But delay quietly confirms the <font color="#00ff00">fear</font> you try to escape.
+
+33
+00:00:13,640 --> 00:00:13,840
+But delay quietly confirms the fear <font color="#00ff00">you</font> try to escape.
+
+34
+00:00:13,840 --> 00:00:14,100
+But delay quietly confirms the fear you <font color="#00ff00">try</font> to escape.
+
+35
+00:00:14,100 --> 00:00:14,280
+But delay quietly confirms the fear you try <font color="#00ff00">to</font> escape.
+
+36
+00:00:14,280 --> 00:00:14,700
+But delay quietly confirms the fear you try to <font color="#00ff00">escape.</font>
+
+37
+00:00:15,960 --> 00:00:16,240
+<font color="#00ff00">Courage</font> grows through imperfect exposure.
+
+38
+00:00:16,240 --> 00:00:16,480
+Courage <font color="#00ff00">grows</font> through imperfect exposure.
+
+39
+00:00:16,480 --> 00:00:16,780
+Courage grows <font color="#00ff00">through</font> imperfect exposure.
+
+40
+00:00:16,780 --> 00:00:17,300
+Courage grows through <font color="#00ff00">imperfect</font> exposure.
+
+41
+00:00:17,300 --> 00:00:18,020
+Courage grows through imperfect <font color="#00ff00">exposure.</font>

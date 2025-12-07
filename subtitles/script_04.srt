@@ -1,0 +1,211 @@
+1
+00:00:00,380 --> 00:00:00,700
+<font color="#00ff00">Procrastination</font> is not a time problem,
+
+2
+00:00:00,700 --> 00:00:01,140
+Procrastination <font color="#00ff00">is</font> not a time problem,
+
+3
+00:00:01,140 --> 00:00:01,340
+Procrastination is <font color="#00ff00">not</font> a time problem,
+
+4
+00:00:01,340 --> 00:00:01,500
+Procrastination is not <font color="#00ff00">a</font> time problem,
+
+5
+00:00:01,500 --> 00:00:01,760
+Procrastination is not a <font color="#00ff00">time</font> problem,
+
+6
+00:00:01,760 --> 00:00:02,100
+Procrastination is not a time <font color="#00ff00">problem,</font>
+
+7
+00:00:02,400 --> 00:00:02,480
+<font color="#00ff00">it</font> is an emotion problem.
+
+8
+00:00:02,480 --> 00:00:02,600
+it <font color="#00ff00">is</font> an emotion problem.
+
+9
+00:00:02,600 --> 00:00:02,720
+it is <font color="#00ff00">an</font> emotion problem.
+
+10
+00:00:02,720 --> 00:00:03,060
+it is an <font color="#00ff00">emotion</font> problem.
+
+11
+00:00:03,060 --> 00:00:03,360
+it is an emotion <font color="#00ff00">problem.</font>
+
+12
+00:00:04,800 --> 00:00:04,900
+<font color="#00ff00">You</font> delay tasks not because you are lazy
+
+13
+00:00:04,900 --> 00:00:05,160
+You <font color="#00ff00">delay</font> tasks not because you are lazy
+
+14
+00:00:05,160 --> 00:00:05,620
+You delay <font color="#00ff00">tasks</font> not because you are lazy
+
+15
+00:00:05,620 --> 00:00:05,920
+You delay tasks <font color="#00ff00">not</font> because you are lazy
+
+16
+00:00:05,920 --> 00:00:06,180
+You delay tasks not <font color="#00ff00">because</font> you are lazy
+
+17
+00:00:06,180 --> 00:00:06,360
+You delay tasks not because <font color="#00ff00">you</font> are lazy
+
+18
+00:00:06,360 --> 00:00:06,480
+You delay tasks not because you <font color="#00ff00">are</font> lazy
+
+19
+00:00:06,480 --> 00:00:06,860
+You delay tasks not because you are <font color="#00ff00">lazy</font>
+
+20
+00:00:06,860 --> 00:00:07,200
+<font color="#00ff00">but</font> because discomfort feels threatening.
+
+21
+00:00:07,200 --> 00:00:07,420
+but <font color="#00ff00">because</font> discomfort feels threatening.
+
+22
+00:00:07,420 --> 00:00:07,960
+but because <font color="#00ff00">discomfort</font> feels threatening.
+
+23
+00:00:07,960 --> 00:00:08,000
+but because discomfort feels threatening.
+
+24
+00:00:08,000 --> 00:00:08,440
+but because discomfort <font color="#00ff00">feels</font> threatening.
+
+25
+00:00:08,440 --> 00:00:08,760
+but because discomfort feels <font color="#00ff00">threatening.</font>
+
+26
+00:00:10,120 --> 00:00:10,220
+<font color="#00ff00">The</font> brain chooses short relief over long progress.
+
+27
+00:00:10,220 --> 00:00:10,500
+The <font color="#00ff00">brain</font> chooses short relief over long progress.
+
+28
+00:00:10,500 --> 00:00:10,860
+The brain <font color="#00ff00">chooses</font> short relief over long progress.
+
+29
+00:00:10,860 --> 00:00:11,240
+The brain chooses <font color="#00ff00">short</font> relief over long progress.
+
+30
+00:00:11,240 --> 00:00:11,620
+The brain chooses short <font color="#00ff00">relief</font> over long progress.
+
+31
+00:00:11,620 --> 00:00:11,940
+The brain chooses short relief <font color="#00ff00">over</font> long progress.
+
+32
+00:00:11,940 --> 00:00:12,280
+The brain chooses short relief over <font color="#00ff00">long</font> progress.
+
+33
+00:00:12,280 --> 00:00:12,600
+The brain chooses short relief over long <font color="#00ff00">progress.</font>
+
+34
+00:00:14,060 --> 00:00:14,540
+<font color="#00ff00">Avoidance</font> shrinks your confidence every time you delay.
+
+35
+00:00:14,540 --> 00:00:14,840
+Avoidance <font color="#00ff00">shrinks</font> your confidence every time you delay.
+
+36
+00:00:14,840 --> 00:00:15,000
+Avoidance shrinks <font color="#00ff00">your</font> confidence every time you delay.
+
+37
+00:00:15,000 --> 00:00:15,400
+Avoidance shrinks your <font color="#00ff00">confidence</font> every time you delay.
+
+38
+00:00:15,400 --> 00:00:15,800
+Avoidance shrinks your confidence <font color="#00ff00">every</font> time you delay.
+
+39
+00:00:15,800 --> 00:00:16,080
+Avoidance shrinks your confidence every <font color="#00ff00">time</font> you delay.
+
+40
+00:00:16,080 --> 00:00:16,280
+Avoidance shrinks your confidence every time <font color="#00ff00">you</font> delay.
+
+41
+00:00:16,280 --> 00:00:16,620
+Avoidance shrinks your confidence every time you <font color="#00ff00">delay.</font>
+
+42
+00:00:17,960 --> 00:00:18,180
+<font color="#00ff00">Starting</font> before you feel ready is how motivation quietly grows.
+
+43
+00:00:18,180 --> 00:00:18,520
+Starting <font color="#00ff00">before</font> you feel ready is how motivation quietly grows.
+
+44
+00:00:18,520 --> 00:00:18,540
+Starting before you feel ready is how motivation quietly grows.
+
+45
+00:00:18,540 --> 00:00:18,780
+Starting before <font color="#00ff00">you</font> feel ready is how motivation quietly grows.
+
+46
+00:00:18,780 --> 00:00:19,060
+Starting before you <font color="#00ff00">feel</font> ready is how motivation quietly grows.
+
+47
+00:00:19,060 --> 00:00:19,360
+Starting before you feel <font color="#00ff00">ready</font> is how motivation quietly grows.
+
+48
+00:00:19,360 --> 00:00:19,580
+Starting before you feel ready <font color="#00ff00">is</font> how motivation quietly grows.
+
+49
+00:00:19,580 --> 00:00:19,660
+Starting before you feel ready is how motivation quietly grows.
+
+50
+00:00:19,660 --> 00:00:19,780
+Starting before you feel ready is <font color="#00ff00">how</font> motivation quietly grows.
+
+51
+00:00:19,780 --> 00:00:20,360
+Starting before you feel ready is how <font color="#00ff00">motivation</font> quietly grows.
+
+52
+00:00:20,360 --> 00:00:20,900
+Starting before you feel ready is how motivation <font color="#00ff00">quietly</font> grows.
+
+53
+00:00:20,900 --> 00:00:21,260
+Starting before you feel ready is how motivation quietly <font color="#00ff00">grows.</font>

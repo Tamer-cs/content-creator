@@ -1,0 +1,171 @@
+1
+00:00:00,240 --> 00:00:00,500
+<font color="#00ff00">Focus</font> collapses when your environment trains constant interruption.
+
+2
+00:00:00,500 --> 00:00:00,980
+Focus <font color="#00ff00">collapses</font> when your environment trains constant interruption.
+
+3
+00:00:00,980 --> 00:00:01,220
+Focus collapses when your environment trains constant interruption.
+
+4
+00:00:01,220 --> 00:00:01,340
+Focus collapses <font color="#00ff00">when</font> your environment trains constant interruption.
+
+5
+00:00:01,340 --> 00:00:01,520
+Focus collapses when <font color="#00ff00">your</font> environment trains constant interruption.
+
+6
+00:00:01,520 --> 00:00:02,080
+Focus collapses when your <font color="#00ff00">environment</font> trains constant interruption.
+
+7
+00:00:02,080 --> 00:00:02,560
+Focus collapses when your environment <font color="#00ff00">trains</font> constant interruption.
+
+8
+00:00:02,560 --> 00:00:03,080
+Focus collapses when your environment trains <font color="#00ff00">constant</font> interruption.
+
+9
+00:00:03,080 --> 00:00:03,800
+Focus collapses when your environment trains constant <font color="#00ff00">interruption.</font>
+
+10
+00:00:05,000 --> 00:00:05,120
+<font color="#00ff00">Your</font> brain adapts to what it experiences most.
+
+11
+00:00:05,120 --> 00:00:05,400
+Your <font color="#00ff00">brain</font> adapts to what it experiences most.
+
+12
+00:00:05,400 --> 00:00:05,880
+Your brain <font color="#00ff00">adapts</font> to what it experiences most.
+
+13
+00:00:05,880 --> 00:00:06,000
+Your brain adapts <font color="#00ff00">to</font> what it experiences most.
+
+14
+00:00:06,000 --> 00:00:06,220
+Your brain adapts to <font color="#00ff00">what</font> it experiences most.
+
+15
+00:00:06,220 --> 00:00:06,320
+Your brain adapts to what <font color="#00ff00">it</font> experiences most.
+
+16
+00:00:06,320 --> 00:00:07,040
+Your brain adapts to what it <font color="#00ff00">experiences</font> most.
+
+17
+00:00:07,040 --> 00:00:07,440
+Your brain adapts to what it experiences <font color="#00ff00">most.</font>
+
+18
+00:00:08,800 --> 00:00:09,020
+<font color="#00ff00">Noise</font> teaches distraction just like silence teaches calm.
+
+19
+00:00:09,020 --> 00:00:09,360
+Noise <font color="#00ff00">teaches</font> distraction just like silence teaches calm.
+
+20
+00:00:09,360 --> 00:00:09,960
+Noise teaches <font color="#00ff00">distraction</font> just like silence teaches calm.
+
+21
+00:00:09,960 --> 00:00:09,980
+Noise teaches distraction just like silence teaches calm.
+
+22
+00:00:09,980 --> 00:00:10,320
+Noise teaches distraction <font color="#00ff00">just</font> like silence teaches calm.
+
+23
+00:00:10,320 --> 00:00:10,560
+Noise teaches distraction just <font color="#00ff00">like</font> silence teaches calm.
+
+24
+00:00:10,560 --> 00:00:11,000
+Noise teaches distraction just like <font color="#00ff00">silence</font> teaches calm.
+
+25
+00:00:11,000 --> 00:00:11,440
+Noise teaches distraction just like silence <font color="#00ff00">teaches</font> calm.
+
+26
+00:00:11,440 --> 00:00:11,940
+Noise teaches distraction just like silence teaches <font color="#00ff00">calm.</font>
+
+27
+00:00:13,160 --> 00:00:13,280
+<font color="#00ff00">You</font> do not need more discipline,
+
+28
+00:00:13,280 --> 00:00:13,420
+You <font color="#00ff00">do</font> not need more discipline,
+
+29
+00:00:13,420 --> 00:00:13,640
+You do <font color="#00ff00">not</font> need more discipline,
+
+30
+00:00:13,640 --> 00:00:13,900
+You do not <font color="#00ff00">need</font> more discipline,
+
+31
+00:00:13,900 --> 00:00:14,160
+You do not need <font color="#00ff00">more</font> discipline,
+
+32
+00:00:14,160 --> 00:00:14,540
+You do not need more <font color="#00ff00">discipline,</font>
+
+33
+00:00:15,000 --> 00:00:15,100
+<font color="#00ff00">you</font> need fewer triggers.
+
+34
+00:00:15,100 --> 00:00:15,300
+you <font color="#00ff00">need</font> fewer triggers.
+
+35
+00:00:15,300 --> 00:00:15,620
+you need <font color="#00ff00">fewer</font> triggers.
+
+36
+00:00:15,620 --> 00:00:15,940
+you need fewer <font color="#00ff00">triggers.</font>
+
+37
+00:00:17,340 --> 00:00:17,860
+<font color="#00ff00">Environment</font> shapes attention more than effort does.
+
+38
+00:00:17,860 --> 00:00:18,280
+Environment <font color="#00ff00">shapes</font> attention more than effort does.
+
+39
+00:00:18,280 --> 00:00:18,740
+Environment shapes <font color="#00ff00">attention</font> more than effort does.
+
+40
+00:00:18,740 --> 00:00:19,100
+Environment shapes attention <font color="#00ff00">more</font> than effort does.
+
+41
+00:00:19,100 --> 00:00:19,260
+Environment shapes attention more <font color="#00ff00">than</font> effort does.
+
+42
+00:00:19,260 --> 00:00:19,500
+Environment shapes attention more than <font color="#00ff00">effort</font> does.
+
+43
+00:00:19,500 --> 00:00:19,780
+Environment shapes attention more than effort <font color="#00ff00">does.</font>

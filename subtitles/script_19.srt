@@ -1,0 +1,147 @@
+1
+00:00:00,340 --> 00:00:00,620
+<font color="#00ff00">Overthinking</font> asks questions that action could answer faster.
+
+2
+00:00:00,620 --> 00:00:01,060
+Overthinking <font color="#00ff00">asks</font> questions that action could answer faster.
+
+3
+00:00:01,060 --> 00:00:01,240
+Overthinking asks questions that action could answer faster.
+
+4
+00:00:01,240 --> 00:00:01,520
+Overthinking asks <font color="#00ff00">questions</font> that action could answer faster.
+
+5
+00:00:01,520 --> 00:00:01,800
+Overthinking asks questions <font color="#00ff00">that</font> action could answer faster.
+
+6
+00:00:01,800 --> 00:00:02,080
+Overthinking asks questions that <font color="#00ff00">action</font> could answer faster.
+
+7
+00:00:02,080 --> 00:00:02,340
+Overthinking asks questions that action <font color="#00ff00">could</font> answer faster.
+
+8
+00:00:02,340 --> 00:00:02,700
+Overthinking asks questions that action could <font color="#00ff00">answer</font> faster.
+
+9
+00:00:02,700 --> 00:00:03,160
+Overthinking asks questions that action could answer <font color="#00ff00">faster.</font>
+
+10
+00:00:04,400 --> 00:00:04,460
+<font color="#00ff00">The</font> brain wants certainty before movement.
+
+11
+00:00:04,460 --> 00:00:04,740
+The <font color="#00ff00">brain</font> wants certainty before movement.
+
+12
+00:00:04,740 --> 00:00:05,000
+The brain <font color="#00ff00">wants</font> certainty before movement.
+
+13
+00:00:05,000 --> 00:00:05,480
+The brain wants <font color="#00ff00">certainty</font> before movement.
+
+14
+00:00:05,480 --> 00:00:05,820
+The brain wants certainty <font color="#00ff00">before</font> movement.
+
+15
+00:00:05,820 --> 00:00:06,260
+The brain wants certainty before <font color="#00ff00">movement.</font>
+
+16
+00:00:07,600 --> 00:00:07,700
+<font color="#00ff00">But</font> most clarity only appears after you start.
+
+17
+00:00:07,700 --> 00:00:07,960
+But <font color="#00ff00">most</font> clarity only appears after you start.
+
+18
+00:00:07,960 --> 00:00:08,400
+But most <font color="#00ff00">clarity</font> only appears after you start.
+
+19
+00:00:08,400 --> 00:00:08,820
+But most clarity <font color="#00ff00">only</font> appears after you start.
+
+20
+00:00:08,820 --> 00:00:09,280
+But most clarity only <font color="#00ff00">appears</font> after you start.
+
+21
+00:00:09,280 --> 00:00:09,500
+But most clarity only appears after you start.
+
+22
+00:00:09,500 --> 00:00:09,600
+But most clarity only appears <font color="#00ff00">after</font> you start.
+
+23
+00:00:09,600 --> 00:00:09,780
+But most clarity only appears after <font color="#00ff00">you</font> start.
+
+24
+00:00:09,780 --> 00:00:10,140
+But most clarity only appears after you <font color="#00ff00">start.</font>
+
+25
+00:00:11,500 --> 00:00:11,680
+<font color="#00ff00">Thinking</font> delays the feedback that growth needs.
+
+26
+00:00:11,680 --> 00:00:12,040
+Thinking <font color="#00ff00">delays</font> the feedback that growth needs.
+
+27
+00:00:12,040 --> 00:00:12,280
+Thinking delays <font color="#00ff00">the</font> feedback that growth needs.
+
+28
+00:00:12,280 --> 00:00:12,720
+Thinking delays the <font color="#00ff00">feedback</font> that growth needs.
+
+29
+00:00:12,720 --> 00:00:13,000
+Thinking delays the feedback <font color="#00ff00">that</font> growth needs.
+
+30
+00:00:13,000 --> 00:00:13,320
+Thinking delays the feedback that <font color="#00ff00">growth</font> needs.
+
+31
+00:00:13,320 --> 00:00:13,860
+Thinking delays the feedback that growth <font color="#00ff00">needs.</font>
+
+32
+00:00:15,100 --> 00:00:15,360
+<font color="#00ff00">Action</font> teaches what rumination never can.
+
+33
+00:00:15,360 --> 00:00:15,720
+Action <font color="#00ff00">teaches</font> what rumination never can.
+
+34
+00:00:15,720 --> 00:00:16,100
+Action teaches <font color="#00ff00">what</font> rumination never can.
+
+35
+00:00:16,100 --> 00:00:16,680
+Action teaches what <font color="#00ff00">rumination</font> never can.
+
+36
+00:00:16,680 --> 00:00:17,020
+Action teaches what rumination <font color="#00ff00">never</font> can.
+
+37
+00:00:17,020 --> 00:00:17,380
+Action teaches what rumination never <font color="#00ff00">can.</font>

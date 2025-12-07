@@ -1,0 +1,187 @@
+1
+00:00:00,240 --> 00:00:00,480
+<font color="#00ff00">Social</font> pressure works strongest when no one admits it exists.
+
+2
+00:00:00,480 --> 00:00:00,760
+Social <font color="#00ff00">pressure</font> works strongest when no one admits it exists.
+
+3
+00:00:00,760 --> 00:00:01,140
+Social pressure works strongest when no one admits it exists.
+
+4
+00:00:01,140 --> 00:00:01,240
+Social pressure <font color="#00ff00">works</font> strongest when no one admits it exists.
+
+5
+00:00:01,240 --> 00:00:01,620
+Social pressure works <font color="#00ff00">strongest</font> when no one admits it exists.
+
+6
+00:00:01,620 --> 00:00:02,100
+Social pressure works strongest <font color="#00ff00">when</font> no one admits it exists.
+
+7
+00:00:02,100 --> 00:00:02,360
+Social pressure works strongest when <font color="#00ff00">no</font> one admits it exists.
+
+8
+00:00:02,360 --> 00:00:02,560
+Social pressure works strongest when no <font color="#00ff00">one</font> admits it exists.
+
+9
+00:00:02,560 --> 00:00:02,880
+Social pressure works strongest when no one <font color="#00ff00">admits</font> it exists.
+
+10
+00:00:02,880 --> 00:00:03,060
+Social pressure works strongest when no one admits <font color="#00ff00">it</font> exists.
+
+11
+00:00:03,060 --> 00:00:03,440
+Social pressure works strongest when no one admits it <font color="#00ff00">exists.</font>
+
+12
+00:00:04,780 --> 00:00:04,920
+<font color="#00ff00">You</font> feel it in tone,
+
+13
+00:00:04,920 --> 00:00:05,200
+You <font color="#00ff00">feel</font> it in tone,
+
+14
+00:00:05,200 --> 00:00:05,340
+You feel <font color="#00ff00">it</font> in tone,
+
+15
+00:00:05,340 --> 00:00:05,460
+You feel it <font color="#00ff00">in</font> tone,
+
+16
+00:00:05,460 --> 00:00:05,780
+You feel it in <font color="#00ff00">tone,</font>
+
+17
+00:00:06,100 --> 00:00:06,420
+<font color="#00ff00">silence</font> and small expressions.
+
+18
+00:00:06,420 --> 00:00:06,900
+silence <font color="#00ff00">and</font> small expressions.
+
+19
+00:00:06,900 --> 00:00:07,240
+silence and <font color="#00ff00">small</font> expressions.
+
+20
+00:00:07,240 --> 00:00:07,860
+silence and small <font color="#00ff00">expressions.</font>
+
+21
+00:00:09,240 --> 00:00:09,420
+<font color="#00ff00">Most</font> people follow the group even when unsure why.
+
+22
+00:00:09,420 --> 00:00:09,760
+Most <font color="#00ff00">people</font> follow the group even when unsure why.
+
+23
+00:00:09,760 --> 00:00:10,080
+Most people <font color="#00ff00">follow</font> the group even when unsure why.
+
+24
+00:00:10,080 --> 00:00:10,260
+Most people follow <font color="#00ff00">the</font> group even when unsure why.
+
+25
+00:00:10,260 --> 00:00:10,500
+Most people follow the <font color="#00ff00">group</font> even when unsure why.
+
+26
+00:00:10,500 --> 00:00:10,820
+Most people follow the group <font color="#00ff00">even</font> when unsure why.
+
+27
+00:00:10,820 --> 00:00:11,020
+Most people follow the group even <font color="#00ff00">when</font> unsure why.
+
+28
+00:00:11,020 --> 00:00:11,460
+Most people follow the group even when <font color="#00ff00">unsure</font> why.
+
+29
+00:00:11,460 --> 00:00:11,820
+Most people follow the group even when unsure <font color="#00ff00">why.</font>
+
+30
+00:00:13,100 --> 00:00:13,200
+<font color="#00ff00">The</font> fear of isolation outweighs the fear of being wrong.
+
+31
+00:00:13,200 --> 00:00:13,460
+The <font color="#00ff00">fear</font> of isolation outweighs the fear of being wrong.
+
+32
+00:00:13,460 --> 00:00:13,580
+The fear <font color="#00ff00">of</font> isolation outweighs the fear of being wrong.
+
+33
+00:00:13,580 --> 00:00:14,080
+The fear of <font color="#00ff00">isolation</font> outweighs the fear of being wrong.
+
+34
+00:00:14,080 --> 00:00:14,760
+The fear of isolation <font color="#00ff00">outweighs</font> the fear of being wrong.
+
+35
+00:00:14,760 --> 00:00:14,880
+The fear of isolation outweighs <font color="#00ff00">the</font> fear of being wrong.
+
+36
+00:00:14,880 --> 00:00:15,040
+The fear of isolation outweighs the fear of being wrong.
+
+37
+00:00:15,040 --> 00:00:15,200
+The fear of isolation outweighs the <font color="#00ff00">fear</font> of being wrong.
+
+38
+00:00:15,200 --> 00:00:15,320
+The fear of isolation outweighs the fear <font color="#00ff00">of</font> being wrong.
+
+39
+00:00:15,320 --> 00:00:15,560
+The fear of isolation outweighs the fear of <font color="#00ff00">being</font> wrong.
+
+40
+00:00:15,560 --> 00:00:15,960
+The fear of isolation outweighs the fear of being <font color="#00ff00">wrong.</font>
+
+41
+00:00:17,220 --> 00:00:17,560
+<font color="#00ff00">Independence</font> grows when you tolerate social discomfort.
+
+42
+00:00:17,560 --> 00:00:18,140
+Independence <font color="#00ff00">grows</font> when you tolerate social discomfort.
+
+43
+00:00:18,140 --> 00:00:18,520
+Independence grows <font color="#00ff00">when</font> you tolerate social discomfort.
+
+44
+00:00:18,520 --> 00:00:18,640
+Independence grows when <font color="#00ff00">you</font> tolerate social discomfort.
+
+45
+00:00:18,640 --> 00:00:19,040
+Independence grows when you <font color="#00ff00">tolerate</font> social discomfort.
+
+46
+00:00:19,040 --> 00:00:19,520
+Independence grows when you tolerate <font color="#00ff00">social</font> discomfort.
+
+47
+00:00:19,520 --> 00:00:20,080
+Independence grows when you tolerate social <font color="#00ff00">discomfort.</font>

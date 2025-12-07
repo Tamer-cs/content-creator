@@ -1,0 +1,195 @@
+1
+00:00:00,240 --> 00:00:00,460
+<font color="#00ff00">Focus</font> weakens when the brain expects quick reward every few minutes.
+
+2
+00:00:00,460 --> 00:00:01,020
+Focus <font color="#00ff00">weakens</font> when the brain expects quick reward every few minutes.
+
+3
+00:00:01,020 --> 00:00:01,200
+Focus weakens <font color="#00ff00">when</font> the brain expects quick reward every few minutes.
+
+4
+00:00:01,200 --> 00:00:01,340
+Focus weakens when <font color="#00ff00">the</font> brain expects quick reward every few minutes.
+
+5
+00:00:01,340 --> 00:00:01,600
+Focus weakens when the <font color="#00ff00">brain</font> expects quick reward every few minutes.
+
+6
+00:00:01,600 --> 00:00:01,980
+Focus weakens when the brain <font color="#00ff00">expects</font> quick reward every few minutes.
+
+7
+00:00:01,980 --> 00:00:02,240
+Focus weakens when the brain expects quick reward every few minutes.
+
+8
+00:00:02,240 --> 00:00:02,340
+Focus weakens when the brain expects <font color="#00ff00">quick</font> reward every few minutes.
+
+9
+00:00:02,340 --> 00:00:02,800
+Focus weakens when the brain expects quick <font color="#00ff00">reward</font> every few minutes.
+
+10
+00:00:02,800 --> 00:00:03,140
+Focus weakens when the brain expects quick reward <font color="#00ff00">every</font> few minutes.
+
+11
+00:00:03,140 --> 00:00:03,420
+Focus weakens when the brain expects quick reward every <font color="#00ff00">few</font> minutes.
+
+12
+00:00:03,420 --> 00:00:03,720
+Focus weakens when the brain expects quick reward every few <font color="#00ff00">minutes.</font>
+
+13
+00:00:05,020 --> 00:00:05,160
+<font color="#00ff00">Deep</font> work feels heavy because your
+
+14
+00:00:05,160 --> 00:00:05,500
+Deep <font color="#00ff00">work</font> feels heavy because your
+
+15
+00:00:05,500 --> 00:00:05,860
+Deep work <font color="#00ff00">feels</font> heavy because your
+
+16
+00:00:05,860 --> 00:00:06,240
+Deep work feels <font color="#00ff00">heavy</font> because your
+
+17
+00:00:06,240 --> 00:00:06,520
+Deep work feels heavy <font color="#00ff00">because</font> your
+
+18
+00:00:06,520 --> 00:00:06,740
+Deep work feels heavy because <font color="#00ff00">your</font>
+
+19
+00:00:06,740 --> 00:00:07,120
+<font color="#00ff00">attention</font> has been trained for speed.
+
+20
+00:00:07,120 --> 00:00:07,460
+attention <font color="#00ff00">has</font> been trained for speed.
+
+21
+00:00:07,460 --> 00:00:07,620
+attention has <font color="#00ff00">been</font> trained for speed.
+
+22
+00:00:07,620 --> 00:00:07,960
+attention has been <font color="#00ff00">trained</font> for speed.
+
+23
+00:00:07,960 --> 00:00:08,180
+attention has been trained <font color="#00ff00">for</font> speed.
+
+24
+00:00:08,180 --> 00:00:08,600
+attention has been trained for <font color="#00ff00">speed.</font>
+
+25
+00:00:09,780 --> 00:00:09,920
+<font color="#00ff00">Each</font> distraction teaches your mind to escape effort.
+
+26
+00:00:09,920 --> 00:00:09,980
+Each distraction teaches your mind to escape effort.
+
+27
+00:00:09,980 --> 00:00:10,320
+Each <font color="#00ff00">distraction</font> teaches your mind to escape effort.
+
+28
+00:00:10,320 --> 00:00:10,820
+Each distraction <font color="#00ff00">teaches</font> your mind to escape effort.
+
+29
+00:00:10,820 --> 00:00:11,160
+Each distraction teaches <font color="#00ff00">your</font> mind to escape effort.
+
+30
+00:00:11,160 --> 00:00:11,420
+Each distraction teaches your <font color="#00ff00">mind</font> to escape effort.
+
+31
+00:00:11,420 --> 00:00:11,600
+Each distraction teaches your mind <font color="#00ff00">to</font> escape effort.
+
+32
+00:00:11,600 --> 00:00:11,940
+Each distraction teaches your mind to <font color="#00ff00">escape</font> effort.
+
+33
+00:00:11,940 --> 00:00:12,040
+Each distraction teaches your mind to escape <font color="#00ff00">effort.</font>
+
+34
+00:00:13,620 --> 00:00:14,020
+<font color="#00ff00">Stillness</font> now feels like pressure instead of peace.
+
+35
+00:00:14,020 --> 00:00:14,240
+Stillness <font color="#00ff00">now</font> feels like pressure instead of peace.
+
+36
+00:00:14,240 --> 00:00:14,580
+Stillness now <font color="#00ff00">feels</font> like pressure instead of peace.
+
+37
+00:00:14,580 --> 00:00:14,940
+Stillness now feels <font color="#00ff00">like</font> pressure instead of peace.
+
+38
+00:00:14,940 --> 00:00:15,260
+Stillness now feels like <font color="#00ff00">pressure</font> instead of peace.
+
+39
+00:00:15,260 --> 00:00:15,640
+Stillness now feels like pressure <font color="#00ff00">instead</font> of peace.
+
+40
+00:00:15,640 --> 00:00:15,680
+Stillness now feels like pressure instead of peace.
+
+41
+00:00:15,680 --> 00:00:15,840
+Stillness now feels like pressure instead <font color="#00ff00">of</font> peace.
+
+42
+00:00:15,840 --> 00:00:16,120
+Stillness now feels like pressure instead of <font color="#00ff00">peace.</font>
+
+43
+00:00:17,540 --> 00:00:17,780
+<font color="#00ff00">Focus</font> returns through patience, not force.
+
+44
+00:00:17,780 --> 00:00:18,260
+Focus <font color="#00ff00">returns</font> through patience, not force.
+
+45
+00:00:18,260 --> 00:00:18,580
+Focus returns <font color="#00ff00">through</font> patience, not force.
+
+46
+00:00:18,580 --> 00:00:19,060
+Focus returns through <font color="#00ff00">patience,</font> not force.
+
+47
+00:00:19,060 --> 00:00:19,520
+Focus returns through patience, not force.
+
+48
+00:00:19,520 --> 00:00:19,720
+Focus returns through patience, <font color="#00ff00">not</font> force.
+
+49
+00:00:19,720 --> 00:00:20,080
+Focus returns through patience, not <font color="#00ff00">force.</font>

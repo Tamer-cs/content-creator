@@ -1,0 +1,167 @@
+1
+00:00:00,320 --> 00:00:00,580
+<font color="#00ff00">Dopamine</font> spikes from novelty more than from meaning.
+
+2
+00:00:00,580 --> 00:00:00,920
+Dopamine <font color="#00ff00">spikes</font> from novelty more than from meaning.
+
+3
+00:00:00,920 --> 00:00:01,200
+Dopamine spikes <font color="#00ff00">from</font> novelty more than from meaning.
+
+4
+00:00:01,200 --> 00:00:01,560
+Dopamine spikes from <font color="#00ff00">novelty</font> more than from meaning.
+
+5
+00:00:01,560 --> 00:00:01,900
+Dopamine spikes from novelty <font color="#00ff00">more</font> than from meaning.
+
+6
+00:00:01,900 --> 00:00:02,020
+Dopamine spikes from novelty more <font color="#00ff00">than</font> from meaning.
+
+7
+00:00:02,020 --> 00:00:02,220
+Dopamine spikes from novelty more than <font color="#00ff00">from</font> meaning.
+
+8
+00:00:02,220 --> 00:00:02,520
+Dopamine spikes from novelty more than from <font color="#00ff00">meaning.</font>
+
+9
+00:00:03,780 --> 00:00:03,900
+<font color="#00ff00">This</font> is why new things feel exciting but fade quickly.
+
+10
+00:00:03,900 --> 00:00:04,060
+This <font color="#00ff00">is</font> why new things feel exciting but fade quickly.
+
+11
+00:00:04,060 --> 00:00:04,280
+This is <font color="#00ff00">why</font> new things feel exciting but fade quickly.
+
+12
+00:00:04,280 --> 00:00:04,580
+This is why <font color="#00ff00">new</font> things feel exciting but fade quickly.
+
+13
+00:00:04,580 --> 00:00:04,920
+This is why new <font color="#00ff00">things</font> feel exciting but fade quickly.
+
+14
+00:00:04,920 --> 00:00:05,160
+This is why new things <font color="#00ff00">feel</font> exciting but fade quickly.
+
+15
+00:00:05,160 --> 00:00:05,680
+This is why new things feel <font color="#00ff00">exciting</font> but fade quickly.
+
+16
+00:00:05,680 --> 00:00:05,700
+This is why new things feel exciting but fade quickly.
+
+17
+00:00:05,700 --> 00:00:05,940
+This is why new things feel exciting <font color="#00ff00">but</font> fade quickly.
+
+18
+00:00:05,940 --> 00:00:06,280
+This is why new things feel exciting but <font color="#00ff00">fade</font> quickly.
+
+19
+00:00:06,280 --> 00:00:06,580
+This is why new things feel exciting but fade <font color="#00ff00">quickly.</font>
+
+20
+00:00:07,800 --> 00:00:07,900
+<font color="#00ff00">The</font> brain is designed to chase change,
+
+21
+00:00:07,900 --> 00:00:08,180
+The <font color="#00ff00">brain</font> is designed to chase change,
+
+22
+00:00:08,180 --> 00:00:08,380
+The brain <font color="#00ff00">is</font> designed to chase change,
+
+23
+00:00:08,380 --> 00:00:08,740
+The brain is <font color="#00ff00">designed</font> to chase change,
+
+24
+00:00:08,740 --> 00:00:08,960
+The brain is designed <font color="#00ff00">to</font> chase change,
+
+25
+00:00:08,960 --> 00:00:09,260
+The brain is designed to <font color="#00ff00">chase</font> change,
+
+26
+00:00:09,260 --> 00:00:09,660
+The brain is designed to chase <font color="#00ff00">change,</font>
+
+27
+00:00:10,040 --> 00:00:10,260
+<font color="#00ff00">not</font> depth.
+
+28
+00:00:10,260 --> 00:00:10,600
+not <font color="#00ff00">depth.</font>
+
+29
+00:00:11,920 --> 00:00:12,180
+<font color="#00ff00">Depth</font> requires consistency without constant reward.
+
+30
+00:00:12,180 --> 00:00:12,200
+Depth requires consistency without constant reward.
+
+31
+00:00:12,200 --> 00:00:12,520
+Depth <font color="#00ff00">requires</font> consistency without constant reward.
+
+32
+00:00:12,520 --> 00:00:13,280
+Depth requires <font color="#00ff00">consistency</font> without constant reward.
+
+33
+00:00:13,280 --> 00:00:13,740
+Depth requires consistency <font color="#00ff00">without</font> constant reward.
+
+34
+00:00:13,740 --> 00:00:14,240
+Depth requires consistency without <font color="#00ff00">constant</font> reward.
+
+35
+00:00:14,240 --> 00:00:14,760
+Depth requires consistency without constant <font color="#00ff00">reward.</font>
+
+36
+00:00:16,100 --> 00:00:16,260
+<font color="#00ff00">True</font> satisfaction grows slowly, not suddenly.
+
+37
+00:00:16,260 --> 00:00:16,840
+True <font color="#00ff00">satisfaction</font> grows slowly, not suddenly.
+
+38
+00:00:16,840 --> 00:00:17,340
+True satisfaction <font color="#00ff00">grows</font> slowly, not suddenly.
+
+39
+00:00:17,340 --> 00:00:17,900
+True satisfaction grows <font color="#00ff00">slowly,</font> not suddenly.
+
+40
+00:00:17,900 --> 00:00:18,160
+True satisfaction grows slowly, not suddenly.
+
+41
+00:00:18,160 --> 00:00:18,340
+True satisfaction grows slowly, <font color="#00ff00">not</font> suddenly.
+
+42
+00:00:18,340 --> 00:00:18,780
+True satisfaction grows slowly, not <font color="#00ff00">suddenly.</font>

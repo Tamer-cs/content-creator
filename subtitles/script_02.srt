@@ -1,0 +1,255 @@
+1
+00:00:00,320 --> 00:00:00,560
+<font color="#00ff00">Dopamine</font> is not the reward,
+
+2
+00:00:00,560 --> 00:00:00,860
+Dopamine <font color="#00ff00">is</font> not the reward,
+
+3
+00:00:00,860 --> 00:00:01,060
+Dopamine is <font color="#00ff00">not</font> the reward,
+
+4
+00:00:01,060 --> 00:00:01,240
+Dopamine is not <font color="#00ff00">the</font> reward,
+
+5
+00:00:01,240 --> 00:00:01,660
+Dopamine is not the <font color="#00ff00">reward,</font>
+
+6
+00:00:02,040 --> 00:00:02,100
+<font color="#00ff00">it</font> is the craving that pulls you toward the reward.
+
+7
+00:00:02,100 --> 00:00:02,220
+it <font color="#00ff00">is</font> the craving that pulls you toward the reward.
+
+8
+00:00:02,220 --> 00:00:02,320
+it is <font color="#00ff00">the</font> craving that pulls you toward the reward.
+
+9
+00:00:02,320 --> 00:00:02,640
+it is the <font color="#00ff00">craving</font> that pulls you toward the reward.
+
+10
+00:00:02,640 --> 00:00:02,940
+it is the craving <font color="#00ff00">that</font> pulls you toward the reward.
+
+11
+00:00:02,940 --> 00:00:03,240
+it is the craving that <font color="#00ff00">pulls</font> you toward the reward.
+
+12
+00:00:03,240 --> 00:00:03,460
+it is the craving that pulls <font color="#00ff00">you</font> toward the reward.
+
+13
+00:00:03,460 --> 00:00:03,800
+it is the craving that pulls you <font color="#00ff00">toward</font> the reward.
+
+14
+00:00:03,800 --> 00:00:03,980
+it is the craving that pulls you toward <font color="#00ff00">the</font> reward.
+
+15
+00:00:03,980 --> 00:00:04,400
+it is the craving that pulls you toward the <font color="#00ff00">reward.</font>
+
+16
+00:00:05,620 --> 00:00:05,840
+<font color="#00ff00">Every</font> scroll,
+
+17
+00:00:05,840 --> 00:00:06,200
+Every <font color="#00ff00">scroll,</font>
+
+18
+00:00:06,680 --> 00:00:06,800
+<font color="#00ff00">click</font> and snack teaches your brain what to chase next.
+
+19
+00:00:06,800 --> 00:00:07,280
+click <font color="#00ff00">and</font> snack teaches your brain what to chase next.
+
+20
+00:00:07,280 --> 00:00:07,580
+click and <font color="#00ff00">snack</font> teaches your brain what to chase next.
+
+21
+00:00:07,580 --> 00:00:07,920
+click and snack <font color="#00ff00">teaches</font> your brain what to chase next.
+
+22
+00:00:07,920 --> 00:00:07,940
+click and snack teaches your brain what to chase next.
+
+23
+00:00:07,940 --> 00:00:08,240
+click and snack teaches <font color="#00ff00">your</font> brain what to chase next.
+
+24
+00:00:08,240 --> 00:00:08,580
+click and snack teaches your <font color="#00ff00">brain</font> what to chase next.
+
+25
+00:00:08,580 --> 00:00:08,820
+click and snack teaches your brain <font color="#00ff00">what</font> to chase next.
+
+26
+00:00:08,820 --> 00:00:08,880
+click and snack teaches your brain what to chase next.
+
+27
+00:00:08,880 --> 00:00:08,980
+click and snack teaches your brain what <font color="#00ff00">to</font> chase next.
+
+28
+00:00:08,980 --> 00:00:09,260
+click and snack teaches your brain what to <font color="#00ff00">chase</font> next.
+
+29
+00:00:09,260 --> 00:00:09,580
+click and snack teaches your brain what to chase <font color="#00ff00">next.</font>
+
+30
+00:00:10,880 --> 00:00:10,980
+<font color="#00ff00">The</font> habit is not built by pleasure but by anticipation of it.
+
+31
+00:00:10,980 --> 00:00:11,220
+The <font color="#00ff00">habit</font> is not built by pleasure but by anticipation of it.
+
+32
+00:00:11,220 --> 00:00:11,480
+The habit <font color="#00ff00">is</font> not built by pleasure but by anticipation of it.
+
+33
+00:00:11,480 --> 00:00:11,700
+The habit is <font color="#00ff00">not</font> built by pleasure but by anticipation of it.
+
+34
+00:00:11,700 --> 00:00:12,000
+The habit is not <font color="#00ff00">built</font> by pleasure but by anticipation of it.
+
+35
+00:00:12,000 --> 00:00:12,260
+The habit is not built <font color="#00ff00">by</font> pleasure but by anticipation of it.
+
+36
+00:00:12,260 --> 00:00:12,660
+The habit is not built by <font color="#00ff00">pleasure</font> but by anticipation of it.
+
+37
+00:00:12,660 --> 00:00:13,000
+The habit is not built by pleasure <font color="#00ff00">but</font> by anticipation of it.
+
+38
+00:00:13,000 --> 00:00:13,220
+The habit is not built by pleasure but <font color="#00ff00">by</font> anticipation of it.
+
+39
+00:00:13,220 --> 00:00:13,900
+The habit is not built by pleasure but by <font color="#00ff00">anticipation</font> of it.
+
+40
+00:00:13,900 --> 00:00:14,200
+The habit is not built by pleasure but by anticipation <font color="#00ff00">of</font> it.
+
+41
+00:00:14,200 --> 00:00:14,300
+The habit is not built by pleasure but by anticipation of <font color="#00ff00">it.</font>
+
+42
+00:00:15,500 --> 00:00:15,680
+<font color="#00ff00">This</font> is why boredom feels painful after constant stimulation.
+
+43
+00:00:15,680 --> 00:00:15,820
+This <font color="#00ff00">is</font> why boredom feels painful after constant stimulation.
+
+44
+00:00:15,820 --> 00:00:16,080
+This is <font color="#00ff00">why</font> boredom feels painful after constant stimulation.
+
+45
+00:00:16,080 --> 00:00:16,580
+This is why <font color="#00ff00">boredom</font> feels painful after constant stimulation.
+
+46
+00:00:16,580 --> 00:00:16,920
+This is why boredom <font color="#00ff00">feels</font> painful after constant stimulation.
+
+47
+00:00:16,920 --> 00:00:17,460
+This is why boredom feels <font color="#00ff00">painful</font> after constant stimulation.
+
+48
+00:00:17,460 --> 00:00:17,660
+This is why boredom feels painful after constant stimulation.
+
+49
+00:00:17,660 --> 00:00:17,800
+This is why boredom feels painful <font color="#00ff00">after</font> constant stimulation.
+
+50
+00:00:17,800 --> 00:00:17,940
+This is why boredom feels painful after constant stimulation.
+
+51
+00:00:17,940 --> 00:00:18,220
+This is why boredom feels painful after <font color="#00ff00">constant</font> stimulation.
+
+52
+00:00:18,220 --> 00:00:18,920
+This is why boredom feels painful after constant <font color="#00ff00">stimulation.</font>
+
+53
+00:00:20,300 --> 00:00:20,420
+<font color="#00ff00">Train</font> your habits slowly or your brain will train them for you.
+
+54
+00:00:20,420 --> 00:00:20,680
+Train <font color="#00ff00">your</font> habits slowly or your brain will train them for you.
+
+55
+00:00:20,680 --> 00:00:20,940
+Train your <font color="#00ff00">habits</font> slowly or your brain will train them for you.
+
+56
+00:00:20,940 --> 00:00:21,440
+Train your habits <font color="#00ff00">slowly</font> or your brain will train them for you.
+
+57
+00:00:21,440 --> 00:00:21,880
+Train your habits slowly <font color="#00ff00">or</font> your brain will train them for you.
+
+58
+00:00:21,880 --> 00:00:22,080
+Train your habits slowly or <font color="#00ff00">your</font> brain will train them for you.
+
+59
+00:00:22,080 --> 00:00:22,420
+Train your habits slowly or your <font color="#00ff00">brain</font> will train them for you.
+
+60
+00:00:22,420 --> 00:00:22,620
+Train your habits slowly or your brain <font color="#00ff00">will</font> train them for you.
+
+61
+00:00:22,620 --> 00:00:22,900
+Train your habits slowly or your brain will <font color="#00ff00">train</font> them for you.
+
+62
+00:00:22,900 --> 00:00:23,100
+Train your habits slowly or your brain will train <font color="#00ff00">them</font> for you.
+
+63
+00:00:23,100 --> 00:00:23,340
+Train your habits slowly or your brain will train them <font color="#00ff00">for</font> you.
+
+64
+00:00:23,340 --> 00:00:23,580
+Train your habits slowly or your brain will train them for <font color="#00ff00">you.</font>

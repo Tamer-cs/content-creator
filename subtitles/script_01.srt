@@ -1,0 +1,255 @@
+1
+00:00:00,200 --> 00:00:00,320
+<font color="#00ff00">Your</font> mind keeps asking the same question at
+
+2
+00:00:00,320 --> 00:00:00,620
+Your <font color="#00ff00">mind</font> keeps asking the same question at
+
+3
+00:00:00,620 --> 00:00:00,900
+Your mind <font color="#00ff00">keeps</font> asking the same question at
+
+4
+00:00:00,900 --> 00:00:01,360
+Your mind keeps <font color="#00ff00">asking</font> the same question at
+
+5
+00:00:01,360 --> 00:00:01,560
+Your mind keeps asking <font color="#00ff00">the</font> same question at
+
+6
+00:00:01,560 --> 00:00:01,820
+Your mind keeps asking the <font color="#00ff00">same</font> question at
+
+7
+00:00:01,820 --> 00:00:02,200
+Your mind keeps asking the same <font color="#00ff00">question</font> at
+
+8
+00:00:02,200 --> 00:00:02,400
+Your mind keeps asking the same question <font color="#00ff00">at</font>
+
+9
+00:00:02,400 --> 00:00:02,640
+<font color="#00ff00">night</font> like it expects a different answer.
+
+10
+00:00:02,640 --> 00:00:02,880
+night <font color="#00ff00">like</font> it expects a different answer.
+
+11
+00:00:02,880 --> 00:00:03,060
+night like <font color="#00ff00">it</font> expects a different answer.
+
+12
+00:00:03,060 --> 00:00:03,360
+night like it <font color="#00ff00">expects</font> a different answer.
+
+13
+00:00:03,360 --> 00:00:03,620
+night like it expects <font color="#00ff00">a</font> different answer.
+
+14
+00:00:03,620 --> 00:00:03,920
+night like it expects a <font color="#00ff00">different</font> answer.
+
+15
+00:00:03,920 --> 00:00:04,460
+night like it expects a different <font color="#00ff00">answer.</font>
+
+16
+00:00:05,600 --> 00:00:06,040
+<font color="#00ff00">Overthinking</font> feels productive,
+
+17
+00:00:06,040 --> 00:00:06,480
+Overthinking <font color="#00ff00">feels</font> productive,
+
+18
+00:00:06,480 --> 00:00:06,920
+Overthinking feels <font color="#00ff00">productive,</font>
+
+19
+00:00:07,400 --> 00:00:07,500
+<font color="#00ff00">but</font> it is just fear wearing the mask of analysis.
+
+20
+00:00:07,500 --> 00:00:07,600
+but <font color="#00ff00">it</font> is just fear wearing the mask of analysis.
+
+21
+00:00:07,600 --> 00:00:07,740
+but it <font color="#00ff00">is</font> just fear wearing the mask of analysis.
+
+22
+00:00:07,740 --> 00:00:07,980
+but it is <font color="#00ff00">just</font> fear wearing the mask of analysis.
+
+23
+00:00:07,980 --> 00:00:08,300
+but it is just <font color="#00ff00">fear</font> wearing the mask of analysis.
+
+24
+00:00:08,300 --> 00:00:08,640
+but it is just fear <font color="#00ff00">wearing</font> the mask of analysis.
+
+25
+00:00:08,640 --> 00:00:08,860
+but it is just fear wearing <font color="#00ff00">the</font> mask of analysis.
+
+26
+00:00:08,860 --> 00:00:09,200
+but it is just fear wearing the <font color="#00ff00">mask</font> of analysis.
+
+27
+00:00:09,200 --> 00:00:09,220
+but it is just fear wearing the mask of analysis.
+
+28
+00:00:09,220 --> 00:00:09,340
+but it is just fear wearing the mask <font color="#00ff00">of</font> analysis.
+
+29
+00:00:09,340 --> 00:00:09,800
+but it is just fear wearing the mask of <font color="#00ff00">analysis.</font>
+
+30
+00:00:11,100 --> 00:00:11,200
+<font color="#00ff00">The</font> brain hates uncertainty more than it hates bad outcomes.
+
+31
+00:00:11,200 --> 00:00:11,440
+The <font color="#00ff00">brain</font> hates uncertainty more than it hates bad outcomes.
+
+32
+00:00:11,440 --> 00:00:11,820
+The brain <font color="#00ff00">hates</font> uncertainty more than it hates bad outcomes.
+
+33
+00:00:11,820 --> 00:00:12,400
+The brain hates <font color="#00ff00">uncertainty</font> more than it hates bad outcomes.
+
+34
+00:00:12,400 --> 00:00:12,760
+The brain hates uncertainty <font color="#00ff00">more</font> than it hates bad outcomes.
+
+35
+00:00:12,760 --> 00:00:12,920
+The brain hates uncertainty more <font color="#00ff00">than</font> it hates bad outcomes.
+
+36
+00:00:12,920 --> 00:00:13,040
+The brain hates uncertainty more than <font color="#00ff00">it</font> hates bad outcomes.
+
+37
+00:00:13,040 --> 00:00:13,320
+The brain hates uncertainty more than it <font color="#00ff00">hates</font> bad outcomes.
+
+38
+00:00:13,320 --> 00:00:13,440
+The brain hates uncertainty more than it hates bad outcomes.
+
+39
+00:00:13,440 --> 00:00:13,640
+The brain hates uncertainty more than it hates <font color="#00ff00">bad</font> outcomes.
+
+40
+00:00:13,640 --> 00:00:14,180
+The brain hates uncertainty more than it hates bad <font color="#00ff00">outcomes.</font>
+
+41
+00:00:15,560 --> 00:00:15,660
+<font color="#00ff00">So</font> it loops,
+
+42
+00:00:15,660 --> 00:00:15,780
+So <font color="#00ff00">it</font> loops,
+
+43
+00:00:15,780 --> 00:00:16,040
+So it <font color="#00ff00">loops,</font>
+
+44
+00:00:16,420 --> 00:00:16,680
+<font color="#00ff00">searching</font> for control that does not actually exist.
+
+45
+00:00:16,680 --> 00:00:16,920
+searching <font color="#00ff00">for</font> control that does not actually exist.
+
+46
+00:00:16,920 --> 00:00:17,340
+searching for <font color="#00ff00">control</font> that does not actually exist.
+
+47
+00:00:17,340 --> 00:00:17,560
+searching for control <font color="#00ff00">that</font> does not actually exist.
+
+48
+00:00:17,560 --> 00:00:17,800
+searching for control that <font color="#00ff00">does</font> not actually exist.
+
+49
+00:00:17,800 --> 00:00:18,000
+searching for control that does <font color="#00ff00">not</font> actually exist.
+
+50
+00:00:18,000 --> 00:00:18,420
+searching for control that does not <font color="#00ff00">actually</font> exist.
+
+51
+00:00:18,420 --> 00:00:18,960
+searching for control that does not actually <font color="#00ff00">exist.</font>
+
+52
+00:00:20,160 --> 00:00:20,300
+<font color="#00ff00">Peace</font> often starts when you stop trying to solve feelings like math.
+
+53
+00:00:20,300 --> 00:00:20,560
+Peace often starts when you stop trying to solve feelings like math.
+
+54
+00:00:20,560 --> 00:00:20,660
+Peace <font color="#00ff00">often</font> starts when you stop trying to solve feelings like math.
+
+55
+00:00:20,660 --> 00:00:21,000
+Peace often <font color="#00ff00">starts</font> when you stop trying to solve feelings like math.
+
+56
+00:00:21,000 --> 00:00:21,320
+Peace often starts <font color="#00ff00">when</font> you stop trying to solve feelings like math.
+
+57
+00:00:21,320 --> 00:00:21,460
+Peace often starts when <font color="#00ff00">you</font> stop trying to solve feelings like math.
+
+58
+00:00:21,460 --> 00:00:21,700
+Peace often starts when you <font color="#00ff00">stop</font> trying to solve feelings like math.
+
+59
+00:00:21,700 --> 00:00:22,040
+Peace often starts when you stop <font color="#00ff00">trying</font> to solve feelings like math.
+
+60
+00:00:22,040 --> 00:00:22,200
+Peace often starts when you stop trying <font color="#00ff00">to</font> solve feelings like math.
+
+61
+00:00:22,200 --> 00:00:22,500
+Peace often starts when you stop trying to <font color="#00ff00">solve</font> feelings like math.
+
+62
+00:00:22,500 --> 00:00:22,920
+Peace often starts when you stop trying to solve <font color="#00ff00">feelings</font> like math.
+
+63
+00:00:22,920 --> 00:00:23,240
+Peace often starts when you stop trying to solve feelings <font color="#00ff00">like</font> math.
+
+64
+00:00:23,240 --> 00:00:23,540
+Peace often starts when you stop trying to solve feelings like <font color="#00ff00">math.</font>
