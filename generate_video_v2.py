@@ -4,10 +4,13 @@ import re
 import srt
 import textwrap
 
+import numpy as np
+from PIL import Image, ImageDraw, ImageFont
+
 from moviepy import (
     VideoFileClip,
     AudioFileClip,
-    TextClip,
+    ImageClip,
     CompositeVideoClip,
     concatenate_videoclips,
 )
@@ -51,6 +54,71 @@ def clean_subtitle_text(txt):
 def load_subtitles(path):
     with open(path, "r", encoding="utf-8") as f:
         return list(srt.parse(f.read()))
+
+# =========================
+# FONT HELPERS
+# =========================
+
+
+def load_font(font_size: int):
+    candidates = [
+        "arial.ttf",
+        "Arial.ttf",
+        "DejaVuSans-Bold.ttf",
+        "DejaVuSans.ttf",
+    ]
+    for c in candidates:
+        try:
+            return ImageFont.truetype(c, font_size)
+        except Exception:
+            continue
+    return ImageFont.load_default()
+
+
+def render_subtitle_image(
+    text: str,
+    wrap_width: int = 26,
+    font_size: int = 42,
+    stroke_width: int = 2,
+    padding: int = 28,
+    extra_bottom: int = 12,
+    box_opacity: float = 0.55,
+):
+    font = load_font(font_size)
+    wrapped = "\n".join(textwrap.wrap(text, width=wrap_width)) or " "
+
+    # Measure text
+    dummy = Image.new("RGBA", (10, 10), (0, 0, 0, 0))
+    d = ImageDraw.Draw(dummy)
+    bbox = d.multiline_textbbox(
+        (0, 0), wrapped, font=font, stroke_width=stroke_width, spacing=4)
+    text_w = bbox[2] - bbox[0]
+    text_h = bbox[3] - bbox[1]
+
+    box_w = text_w + 2 * padding
+    box_h = text_h + 2 * padding + extra_bottom  # extra room for descenders
+
+    img = Image.new("RGBA", (box_w, box_h), (0, 0, 0, 0))
+    d = ImageDraw.Draw(img)
+
+    # Background box with opacity
+    alpha = int(255 * box_opacity)
+    d.rectangle([0, 0, box_w, box_h], fill=(0, 0, 0, alpha))
+
+    # Draw text, lifted upward a bit to avoid bottom clipping
+    text_x = (box_w - text_w) // 2
+    text_y = padding - 4  # small upward bias
+    d.multiline_text(
+        (text_x, text_y),
+        wrapped,
+        font=font,
+        fill=(255, 255, 255, 255),
+        stroke_width=stroke_width,
+        stroke_fill=(0, 0, 0, 255),
+        spacing=4,
+        align="center",
+    )
+    return np.array(img)
 
 
 # =========================
@@ -105,40 +173,48 @@ for f in os.listdir(AUDIO_DIR):
     # SUBTITLES — SAFE, UNCROPPED
     # =========================
     subs = load_subtitles(srt_path)
-    text_clips = []
+    subtitle_layers = []
+
+    bottom_safe_margin = 320   # generous bottom clearance
+    min_top_anchor = int(bg.h * 0.56)
+    box_opacity = 0.55
+    wrap_width = 26
+    font_size = 42
+    stroke_width = 2
+    padding = 28
+    extra_bottom = 14  # extra baseline room
 
     for sub in subs:
         start = sub.start.total_seconds()
-        end = sub.end. total_seconds()
+        end = sub.end.total_seconds()
         duration = end - start
 
         clean_text = clean_subtitle_text(sub.content)
-        wrapped = "\n".join(textwrap. wrap(clean_text, width=26))
+        img_arr = render_subtitle_image(
+            clean_text,
+            wrap_width=wrap_width,
+            font_size=font_size,
+            stroke_width=stroke_width,
+            padding=padding,
+            extra_bottom=extra_bottom,
+            box_opacity=box_opacity,
+        )
 
-        txt = TextClip(
-            text=wrapped,
-            font_size=42,
-            color="white",
-            stroke_color="black",
-            stroke_width=2,
-            method="caption",
-            size=(900, None),
-        ).with_start(start).with_duration(duration)
+        subtitle = ImageClip(img_arr)
+        subtitle = subtitle.with_duration(duration).with_start(start)
 
-        # Position based on text height so bottom stays in frame
-        bottom_margin = 200  # pixels from bottom edge (safe zone)
-        y_pos = bg.h - txt.h - bottom_margin  # place TOP of clip here
+        # Position calculation
+        box_h = subtitle.h
+        y_pos = bg.h - box_h - bottom_safe_margin
+        y_pos = max(min_top_anchor, y_pos)
 
-        # Clamp so it never goes above a reasonable point
-        y_pos = max(int(bg.h * 0.5), y_pos)
-
-        txt = txt.with_position(("center", y_pos))
-        text_clips.append(txt)
+        subtitle = subtitle.with_position(("center", y_pos))
+        subtitle_layers.append(subtitle)
 
     # =========================
     # FINAL COMPOSITION
     # =========================
-    final = CompositeVideoClip([bg] + text_clips)
+    final = CompositeVideoClip([bg] + subtitle_layers)
     final = final.with_audio(audio_clip)
 
     # =========================
@@ -149,7 +225,7 @@ for f in os.listdir(AUDIO_DIR):
         fps=30,
         codec="libx264",
         audio_codec="aac",
-        threads=4
+        threads=4,
     )
 
     print("Saved:", out_path)
